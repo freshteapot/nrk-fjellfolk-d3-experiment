@@ -1,0 +1,312 @@
+<tt lang="no" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+    <styling>
+      <style id="italic" tts:fontStyle="italic"></style>
+      <style id="left" tts:textAlign="left"></style>
+      <style id="center" tts:textAlign="center"></style>
+      <style id="right" tts:textAlign="right"></style>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:00.000" dur="00:00:00.000">Copyright (C) NRK</p>
+      <p begin="00:01:11.200" dur="00:00:03.740" style="left">Vinterfjellet har stilnet<br></br>etter stormen.</p>
+      <p begin="00:01:15.240" dur="00:00:06.200" style="left">Uværet kom, dro og etterlot seg<br></br>snødekte fjellsider og vidder.</p>
+      <p begin="00:01:23.480" dur="00:00:04.340" style="left">Kom, kom.<br></br>Nå skal vi på tur.</p>
+      <p begin="00:01:28.120" dur="00:00:03.620" style="left">Nå skal vi til fjells.</p>
+      <p begin="00:01:32.040" dur="00:00:06.20" style="left">Ikke akkurat på oppdagelsesferd,<br></br>men nesten.</p>
+      <p begin="00:01:38.360" dur="00:00:05.260" style="left">Forhåpentligvis finner vi<br></br>vesle Frudalsfjellhytta, -</p>
+      <p begin="00:01:43.920" dur="00:00:04.740" style="left">- som forhåpentligvis står<br></br>  og ikke er full av snø.</p>
+      <p begin="00:01:48.960" dur="00:00:05.540" style="left">De skal gå og klatre i hele dag. Til<br></br>kvelden får Sigrid og Sander vite -</p>
+      <p begin="00:01:54.800" dur="00:00:06.60" style="left">- om hytta har overlevd uværet som<br></br>  har ødelagt mye annet på fjellet.</p>
+      <p begin="00:02:01.160" dur="00:00:07.180" style="left">Det er mange hytter og hus som<br></br>er blitt ødelagt i stormen i romjula.</p>
+      <p begin="00:02:08.640" dur="00:00:05.300" style="left">Så om hytta står og om den er<br></br>like hel, blir spennende å se.</p>
+      <p begin="00:02:14.240" dur="00:00:03.640" style="left">Men først må vi komme oss dit.</p>
+      <p begin="00:02:23.480" dur="00:00:03.400" style="left">Deilig!</p>
+      <p begin="00:02:27.920" dur="00:00:06.900" style="left">Før hytta ble bygd, ville vi sjekke<br></br>om vi skulle ha ei bu her oppe.</p>
+      <p begin="00:02:35.120" dur="00:00:07.20" style="left">Da sov jeg, mamma, pappa og lillebror<br></br>i telt en uke her oppe på fjellet.</p>
+      <p begin="00:02:42.440" dur="00:00:06.800" style="left">Så den kanskje første langturen<br></br>og teltturen min var på fjellet her.</p>
+      <p begin="00:02:56.000" dur="00:00:06.740" style="left">Det er ennå mange timer å gå,<br></br>men de skimter så vidt hytta.</p>
+      <p begin="00:03:03.040" dur="00:00:05.720" style="left">Det ser ut som ei hytte, men ...<br></br>Kan den ligge opp ned, liksom?</p>
+      <p begin="00:03:10.160" dur="00:00:04.200" style="left">Det ser ikke spesielt lovende ut.</p>
+      <p begin="00:03:15.520" dur="00:00:06.400" style="left">Ja, dette er spennende. Jeg tror<br></br>det er den vi ser nedi dumpa der.</p>
+      <p begin="00:03:26.640" dur="00:00:06.800" style="left">Ei lita bu. Men det ser ut som<br></br>om den ligger på hodet.</p>
+      <p begin="00:03:36.000" dur="00:00:05.600" style="left">Det er ikke godt å si.<br></br>Men dette blir spennende.</p>
+      <p begin="00:03:52.320" dur="00:00:05.380" style="left">Lukas sluttet å rømme etter at han<br></br>flyttet fra Sigrid i Jostedalen -</p>
+      <p begin="00:03:58.000" dur="00:00:03.800" style="left">- til Ronja og de andre på Ølnes.</p>
+      <p begin="00:04:02.960" dur="00:00:04.740" style="left">Jeg tror han har gode venner,<br></br>så han vil ikke rømme.</p>
+      <p begin="00:04:08.000" dur="00:00:05.300" style="left">Og det er ikke noe gress<br></br>som frister utenfor heller.</p>
+      <p begin="00:04:13.600" dur="00:00:07.300" style="left">Men i dag får ikke Lukas være med<br></br>på tur. Nå skal jentene stå i fokus.</p>
+      <p begin="00:04:21.200" dur="00:00:05.200" style="left">Du er så flink til å gå på ski.<br></br>Det visste jeg ikke.</p>
+      <p begin="00:04:27.840" dur="00:00:04.780" style="left">Hva vi gjør?<br></br>Det er to forskjellige turer.</p>
+      <p begin="00:04:32.920" dur="00:00:05.420" style="left">Ronja kan kjøre på alpinski,<br></br>så vi skal opp på en topp.</p>
+      <p begin="00:04:38.640" dur="00:00:03.780" style="left">Så kan vi kjøre i løssnøen ned.</p>
+      <p begin="00:04:42.720" dur="00:00:06.560" style="left">-Katja og Svenja går på en ...<br></br>-Vi går på en eventyrtur.</p>
+      <p begin="00:04:50.680" dur="00:00:05.780" style="left">Mens Svenja ser etter rødnissejenta,<br></br>har pappa og Ronja gått foran -</p>
+      <p begin="00:04:56.760" dur="00:00:04.000" style="left">- og lagt igjen noen overraskelser.</p>
+      <p begin="00:05:02.440" dur="00:00:04.960" style="left">Det falt snø fra trærne fordi ...</p>
+      <p begin="00:05:08.520" dur="00:00:04.760" style="left">Det var en rødnisse som listet seg.</p>
+      <p begin="00:05:17.000" dur="00:00:04.520" style="left">Det datt snø ned!<br></br>Oi, oi, oi!</p>
+      <p begin="00:05:29.520" dur="00:00:05.480" style="left">En rødlue! Se der borte!<br></br>Det er noe rødt.</p>
+      <p begin="00:05:41.000" dur="00:00:04.60" style="left">Hva er det som har skjedd her?</p>
+      <p begin="00:05:45.360" dur="00:00:03.920" style="left">Vil du plukke den opp?</p>
+      <p begin="00:05:51.000" dur="00:00:05.60" style="left">-Tror du vi får låne den?<br></br>-Da må vi spørre henne.</p>
+      <p begin="00:05:56.360" dur="00:00:06.000" style="left">-Spør henne. Rop.<br></br>-Kan vi få låne lua di?</p>
+      <p begin="00:06:05.000" dur="00:00:05.300" style="left">Rødnissejenta svarer ikke, men<br></br>Svenja går ut fra at det er greit.</p>
+      <p begin="00:06:10.600" dur="00:00:05.820" style="left">Den som har lua på seg,<br></br>blir kjempeflink til å stå på ski.</p>
+      <p begin="00:06:16.720" dur="00:00:04.860" style="left">-Men hvorfor er den så varm?<br></br>-Det er ull.</p>
+      <p begin="00:06:21.880" dur="00:00:05.980" style="left">-Nei! Hun hadde den på.<br></br>-Det stemmer. Hun hadde den på.</p>
+      <p begin="00:06:28.160" dur="00:00:05.680" style="left">-Så den var fortsatt varm?<br></br>-Ja. Kom!</p>
+      <p begin="00:06:42.600" dur="00:00:03.140" style="left">Kjempebra!</p>
+      <p begin="00:06:46.040" dur="00:00:04.780" style="left">Svenja har gått over 2 km<br></br>på under en time.</p>
+      <p begin="00:06:51.120" dur="00:00:05.260" style="left">Hun og mamma kan gå ned igjen til<br></br>leirplassen med god samvittighet.</p>
+      <p begin="00:06:56.680" dur="00:00:04.600" style="left">Pappa og Ronja fortsetter<br></br>helt til topps.</p>
+      <p begin="00:07:02.480" dur="00:00:05.200" style="left">Skal du komme inn, Tramp?<br></br>Tramp? Flink gutt.</p>
+      <p begin="00:07:10.200" dur="00:00:06.500" style="left">Jeg har en egen patent, for jeg har<br></br>ikke nøkkel. Det er ikke fuglehund.</p>
+      <p begin="00:07:17.000" dur="00:00:04.080" style="left">Så da skremmer den fuglene.</p>
+      <p begin="00:07:22.240" dur="00:00:03.260" style="left">Der er den fengslet.</p>
+      <p begin="00:07:25.800" dur="00:00:06.740" style="left">Jeg går tur i dag. Jeg tror<br></br>ikke jeg ikke får is i rubben.</p>
+      <p begin="00:07:32.840" dur="00:00:06.880" style="left">Vi er heldige som bor her. Kan spenne<br></br>på oss skiene og gå til fjells.</p>
+      <p begin="00:07:40.880" dur="00:00:05.540" style="left">Vi er bortskjemte<br></br>med frisk luft og fin natur.</p>
+      <p begin="00:07:46.720" dur="00:00:04.540" style="left">Det er ikke mer man<br></br>har bruk for egentlig.</p>
+      <p begin="00:07:51.560" dur="00:00:05.380" style="left">Reingjetingen er over, og det er<br></br>en stund til han skal føre turister.</p>
+      <p begin="00:07:57.240" dur="00:00:03.740" style="left">Så nå tar han livet med ro.</p>
+      <p begin="00:08:01.280" dur="00:00:06.180" style="left">Januar og kanskje februar<br></br>bruker jeg på meg selv.</p>
+      <p begin="00:08:07.760" dur="00:00:07.160" style="left">Da tar jeg meg turer og jakter på<br></br>ryper, drikker kaffe og koser meg.</p>
+      <p begin="00:08:21.520" dur="00:00:07.300" style="left">Han ser rikelig med rypespor, men<br></br>også spor etter andre jegere. Reven.</p>
+      <p begin="00:08:29.120" dur="00:00:06.240" style="left">Den har kommet labbende her, gått<br></br>over bekken og bort på den ryggen.</p>
+      <p begin="00:08:41.120" dur="00:00:04.400" style="left">De har overtaket på oss,<br></br>disse dyra.</p>
+      <p begin="00:08:46.640" dur="00:00:04.760" style="left">En rev, ja.<br></br>En jeger som har lyktes.</p>
+      <p begin="00:08:52.600" dur="00:00:04.800" style="left">Skulle gjerne lånt<br></br>luktesansen hans i dag.</p>
+      <p begin="00:09:00.400" dur="00:00:07.100" style="left">De lever ikke i overflod, dyra her.<br></br>Når de flyger slik og jakter.</p>
+      <p begin="00:09:07.800" dur="00:00:04.940" style="left">Det er noe annet for oss,<br></br>som driver med det som hobby.</p>
+      <p begin="00:09:13.040" dur="00:00:06.660" style="left">Artig å gå og se på spor.<br></br>Da kan man drømme seg bort litt.</p>
+      <p begin="00:09:20.000" dur="00:00:05.480" style="left">Prøve å se for seg<br></br>hva som har skjedd her før vi kom.</p>
+      <p begin="00:09:26.680" dur="00:00:06.240" style="left">Det lukter som om reven har gått før<br></br>oss. Reven har nok skremt den opp.</p>
+      <p begin="00:10:02.560" dur="00:00:03.940" style="left">Stakkar! Ja, dette er grusomt.</p>
+      <p begin="00:10:06.800" dur="00:00:07.240" style="left">Det er forferdelige tildragelser<br></br>for pusekatten. Vi er snart framme.</p>
+      <p begin="00:10:15.520" dur="00:00:05.580" style="left">Du overlever dette også.<br></br>Ja, det er grusomt.</p>
+      <p begin="00:10:21.400" dur="00:00:06.700" style="left">Nå skal vi flytte til fjells.<br></br>Nå flytter jeg inn for vinteren.</p>
+      <p begin="00:10:28.400" dur="00:00:07.140" style="left">Med katt, meg selv ... Jeg har til<br></br>og med med meg to av personalet.</p>
+      <p begin="00:10:35.840" dur="00:00:06.000" style="left">Men som regel tar jeg<br></br>den første turen alene.</p>
+      <p begin="00:10:58.240" dur="00:00:05.780" style="left">Ja, nå er vi framme.<br></br>Marerittet er over for denne gang.</p>
+      <p begin="00:11:04.320" dur="00:00:04.280" style="left">Har fått litt snø på seg også.</p>
+      <p begin="00:11:10.120" dur="00:00:03.560" style="left">Skal vi gå inn?</p>
+      <p begin="00:11:32.200" dur="00:00:05.000" style="left">Etter 4 md. i dvale<br></br>våkner Fondsbu til liv.</p>
+      <p begin="00:11:39.560" dur="00:00:06.160" style="left">Det er ganske kjølig.<br></br>Det er ikke mange grader her nå.</p>
+      <p begin="00:11:47.640" dur="00:00:03.660" style="left">Nå er vertinna hjemme.</p>
+      <p begin="00:11:51.600" dur="00:00:06.260" style="left">Det er en egen stemning når man<br></br>kommer. Nå har jeg med meg folk, -</p>
+      <p begin="00:11:58.160" dur="00:00:08.040" style="left">- men jeg kommer vanligvis alene.<br></br>  Da er det en egen stemning i huset.</p>
+      <p begin="00:12:07.160" dur="00:00:06.100" style="left">Jeg tror det er noen som passer<br></br>på huset når jeg ikke er her.</p>
+      <p begin="00:12:13.560" dur="00:00:07.240" style="left">Jeg har en mistanke om det. Men det<br></br>merker jeg bare når jeg kommer alene.</p>
+      <p begin="00:12:21.640" dur="00:00:05.860" style="left">De første gjestene kommer om<br></br>15 dager. Mye skal gjøres før det.</p>
+      <p begin="00:12:27.800" dur="00:00:07.60" style="left">I morgen, eller aller først ...<br></br>Nå har vi satt på varme.</p>
+      <p begin="00:12:35.160" dur="00:00:05.860" style="left">Og vannet er viktig.<br></br>Det skal vi få på etterpå.</p>
+      <p begin="00:12:41.320" dur="00:00:04.820" style="left">Nå er huset varmt nok<br></br>til at vi kan sette på vannet.</p>
+      <p begin="00:12:46.440" dur="00:00:03.860" style="left">Så skal vi kviste løyper.</p>
+      <p begin="00:12:50.600" dur="00:00:04.20" style="left">For nå er det ganske greit føre.</p>
+      <p begin="00:12:54.920" dur="00:00:06.220" style="left">Man må bruke været og føret når<br></br>man har det her oppe i Jotunheimen.</p>
+      <p begin="00:13:01.440" dur="00:00:07.20" style="left">Man må ta det når føret er godt,<br></br>og man har god sikt.</p>
+      <p begin="00:13:08.760" dur="00:00:05.60" style="left">Nå skal vi få vann,<br></br>så vi kan drikke godt fjellvann, -</p>
+      <p begin="00:13:14.120" dur="00:00:05.280" style="left">- gå på do og dusje, lage mat ...<br></br>  Da må vi i kjelleren.</p>
+      <p begin="00:13:36.160" dur="00:00:03.660" style="left">Ser dere bruddforplantninger?</p>
+      <p begin="00:13:40.120" dur="00:00:06.380" style="left">Andreas lærer geologer å ta vare på<br></br>seg selv i skredfarlig terreng.</p>
+      <p begin="00:13:46.800" dur="00:00:06.000" style="left">Da kan du snu blokka.<br></br>Og hva er det vi ser etter da?</p>
+      <p begin="00:13:56.360" dur="00:00:05.220" style="left">Høysesongen er i gang,<br></br>og han er konstant på farten.</p>
+      <p begin="00:14:01.880" dur="00:00:05.740" style="left">Det er framover nå trykket er størst<br></br>for de fleste som jobber i fjellet.</p>
+      <p begin="00:14:07.920" dur="00:00:06.660" style="left">Februar, mars og april. I mai er det<br></br>også mye å gjøre for mange.</p>
+      <p begin="00:14:14.880" dur="00:00:06.480" style="left">Så begynner sommersesongen<br></br>når vårskisesongen tar slutt.</p>
+      <p begin="00:14:22.440" dur="00:00:06.260" style="left">Sommeren er bare to svinger<br></br>i råtten snø, så er det på'n igjen.</p>
+      <p begin="00:14:29.000" dur="00:00:05.940" style="left">Det blir september før han kan regne<br></br>med å være noe særlig hjemme.</p>
+      <p begin="00:14:35.240" dur="00:00:07.180" style="left">En typisk helg for meg er<br></br>å komme hjem sent søndag kveld.</p>
+      <p begin="00:14:42.720" dur="00:00:05.120" style="left">Så mandag, tirsdag ...<br></br>Da har jeg ofte fri.</p>
+      <p begin="00:14:49.000" dur="00:00:05.940" style="left">Familien har jobb, barnehage<br></br>og sine vanlige hverdager.</p>
+      <p begin="00:14:55.240" dur="00:00:05.100" style="left">Det er en utfordring for kjæresten<br></br>min, som er hjemme med to barn.</p>
+      <p begin="00:15:00.640" dur="00:00:04.560" style="left">Må ha en god kjæreste da.<br></br>Verdens beste.</p>
+      <p begin="00:15:09.400" dur="00:00:04.340" style="left">Nei! Nå har jeg<br></br>syre allerede.</p>
+      <p begin="00:15:14.040" dur="00:00:04.160" style="left">Løp, du. Jakthund!</p>
+      <p begin="00:15:20.400" dur="00:00:03.800" style="left">Jeg er helt sprengt.</p>
+      <p begin="00:15:32.400" dur="00:00:04.60" style="left">Vi skal prøve oss på den ryggen der.</p>
+      <p begin="00:15:36.760" dur="00:00:05.580" style="left">Vi har med oss brede ski, som<br></br>kanskje ikke egner seg så godt der.</p>
+      <p begin="00:15:42.640" dur="00:00:06.220" style="left">Men vi har også stegjern og øks,<br></br>så det er mulig at vi får det til.</p>
+      <p begin="00:15:49.160" dur="00:00:05.120" style="left">Håper det, for jeg har<br></br>kjempelyst til å se til hytta.</p>
+      <p begin="00:15:57.080" dur="00:00:04.820" style="left">Det blir heftig klyving.<br></br>Fy søren!</p>
+      <p begin="00:16:02.200" dur="00:00:05.20" style="left">Det første alternativet var<br></br>å klatre rett opp den bratte der -</p>
+      <p begin="00:16:07.520" dur="00:00:04.540" style="left">- og følge ryggen bortover.<br></br>  Men det er for smalt.</p>
+      <p begin="00:16:12.360" dur="00:00:05.640" style="left">Jeg tror jeg stemmer for å gå under<br></br>hammeren bortover med en gang.</p>
+      <p begin="00:16:19.200" dur="00:00:04.980" style="left">Mellom Sigrid og hytta ligger<br></br>fjellkammen Skjerdingane.</p>
+      <p begin="00:16:24.480" dur="00:00:05.000" style="left">De er ikke til å spøke med<br></br>på vinterstid.</p>
+      <p begin="00:16:34.680" dur="00:00:03.340" style="left">Ser det greit ut?</p>
+      <p begin="00:16:38.320" dur="00:00:04.300" style="left">De våger ikke å gå over dem<br></br>og må klyve rundt.</p>
+      <p begin="00:16:42.920" dur="00:00:05.520" style="left">Dette hadde ikke mamma likt.<br></br>Men det liker du.</p>
+      <p begin="00:16:50.680" dur="00:00:05.620" style="left">Det er en hytte man ikke er på så<br></br>ofte, men desto bedre når man er der.</p>
+      <p begin="00:16:56.600" dur="00:00:05.540" style="left">Sannheten er at jeg ikke<br></br>har vært på hytta på vinteren før.</p>
+      <p begin="00:17:02.440" dur="00:00:06.240" style="left">Jeg har tenkt på det mange ganger,<br></br>men nå skjer det kanskje.</p>
+      <p begin="00:17:11.920" dur="00:00:07.200" style="left">Så herlig! Det begynner å bli<br></br>30-45 min siden sola gikk ned.</p>
+      <p begin="00:17:22.480" dur="00:00:06.580" style="left">Det blir fort mørkt. Vi er jo bare<br></br>i begynnelsen av januar.</p>
+      <p begin="00:17:29.360" dur="00:00:06.780" style="left">Vi bakset oss opp igjennom.<br></br>Bra jobbing opp fjellsida i løssnøen.</p>
+      <p begin="00:17:36.440" dur="00:00:05.980" style="left">Men det er god stemning. Og da vi<br></br>kom over kanten, og jeg hørte ham ...</p>
+      <p begin="00:17:42.720" dur="00:00:03.600" style="left">"Å! Sjekk!"</p>
+      <p begin="00:17:51.160" dur="00:00:04.20" style="left">Der kom månen opp. Diger!</p>
+      <p begin="00:17:55.480" dur="00:00:05.280" style="left">Det var kanskje noe av<br></br>det flotteste jeg har sett.</p>
+      <p begin="00:18:11.560" dur="00:00:04.400" style="left">Wow! Kan jeg få et kyss?</p>
+      <p begin="00:18:19.400" dur="00:00:03.720" style="left">Fy søren!</p>
+      <p begin="00:18:30.080" dur="00:00:05.520" style="left">Det regner på kjøkkenet!<br></br>Å nei! Det regner!</p>
+      <p begin="00:18:36.600" dur="00:00:06.080" style="left">Har vannet kommet på kjøkkenet?<br></br>Hadde du noen kraner oppe nå?</p>
+      <p begin="00:18:43.840" dur="00:00:04.000" style="left">Nå har vi et problem.</p>
+      <p begin="00:18:49.920" dur="00:00:04.380" style="left">Finn en klut og tørk opp.</p>
+      <p begin="00:18:54.600" dur="00:00:04.780" style="left">Hvor kommer vannet inn her?<br></br>Er det det vannet som kommer hit?</p>
+      <p begin="00:18:59.680" dur="00:00:05.400" style="left">Det iser utrolig fort.<br></br>Det sier litt om hvor kaldt det er.</p>
+      <p begin="00:19:06.200" dur="00:00:04.000" style="left">Hvor kommer det vannet fra?</p>
+      <p begin="00:19:11.360" dur="00:00:05.520" style="left">Der, ja. Da har de glemt<br></br>å sette på en stengekran.</p>
+      <p begin="00:19:18.040" dur="00:00:03.500" style="left">Da må vi prøve å gjøre det selv.</p>
+      <p begin="00:19:21.840" dur="00:00:04.460" style="left">Vi må få satt stengekranen<br></br>på varmtvannsberederen.</p>
+      <p begin="00:19:26.600" dur="00:00:03.500" style="left">Vi skal ha vannet i rørene.</p>
+      <p begin="00:19:30.400" dur="00:00:05.400" style="left">Men nå er det vann i privaten,<br></br>og ikke på kjøkkenet.</p>
+      <p begin="00:19:38.920" dur="00:00:03.600" style="left">Fint føre, altså!</p>
+      <p begin="00:19:57.840" dur="00:00:03.400" style="left">Rett der oppe.</p>
+      <p begin="00:20:03.440" dur="00:00:03.640" style="left">Nå har vi ankommet.</p>
+      <p begin="00:20:09.440" dur="00:00:05.340" style="left">Jeg håper at du vil se<br></br>disse bildene i hodet ditt senere.</p>
+      <p begin="00:20:15.080" dur="00:00:04.000" style="left">At du setter pris på alt dette her.</p>
+      <p begin="00:20:20.480" dur="00:00:05.620" style="left"> Noen ganger må man presse hardere.<br></br>"Hva er det som skjer, Ronja?"</p>
+      <p begin="00:20:26.400" dur="00:00:06.840" style="left">Jeg har ikke lyst. Men når vi er midt<br></br>i turen, merker jeg at det er gøy.</p>
+      <p begin="00:20:34.160" dur="00:00:03.740" style="left">Er det sant?</p>
+      <p begin="00:20:38.200" dur="00:00:05.320" style="left">-Tror du ikke på meg?<br></br>-Jo. Det sier jeg ofte til meg selv.</p>
+      <p begin="00:20:44.720" dur="00:00:03.860" style="left">Det som blir hjemme for meg ...</p>
+      <p begin="00:20:48.880" dur="00:00:06.640" style="left">Det er disse turene i nærområdet<br></br>som gjør at hjemmefølelsen oppstår.</p>
+      <p begin="00:20:56.440" dur="00:00:06.380" style="left">Jeg har tenkt mye på det siden vi<br></br>flyttet fra Tyskland og i Tyskland.</p>
+      <p begin="00:21:03.120" dur="00:00:04.920" style="left">Hva er egentlig hjemme?<br></br>Dette fjellet!</p>
+      <p begin="00:21:10.040" dur="00:00:05.240" style="left">Det er min venn. Min gode venn.<br></br>Cheers!</p>
+      <p begin="00:21:18.360" dur="00:00:03.900" style="left">Det er alltid bra med varm te.</p>
+      <p begin="00:21:22.560" dur="00:00:06.180" style="left">Jeg leste om en som hadde en<br></br>religiøs opplevelse ved å være ute.</p>
+      <p begin="00:21:29.040" dur="00:00:07.080" style="left">Jeg kan bare si ja. Dette er kirken.<br></br>For meg er det det.</p>
+      <p begin="00:21:39.720" dur="00:00:04.160" style="left">Jeg syns alt er veldig oransje.</p>
+      <p begin="00:21:44.880" dur="00:00:06.280" style="left">Hvis man detter, er det mykt. Men det<br></br>er vanskelig å komme seg opp igjen.</p>
+      <p begin="00:22:30.120" dur="00:00:04.820" style="left">Toppen er nådd, og en dag<br></br>på skredkurs nærmer seg slutten.</p>
+      <p begin="00:22:35.240" dur="00:00:04.660" style="left">I vakkert landskap,<br></br>som brått kan bli farlig.</p>
+      <p begin="00:22:40.200" dur="00:00:05.20" style="left">Det jeg håper særlig<br></br>å ha nådd fram med, er -</p>
+      <p begin="00:22:45.520" dur="00:00:05.180" style="left">- hvordan man tenker terreng<br></br>  og setter det i sammenheng med -</p>
+      <p begin="00:22:51.000" dur="00:00:04.380" style="left">- stabilitet eller instabilitet<br></br>  i snødekket.</p>
+      <p begin="00:22:55.680" dur="00:00:05.460" style="left">I mye av terrenget her er det også<br></br>kanskje utløp fra ting.</p>
+      <p begin="00:23:01.440" dur="00:00:04.420" style="left">Selv om det ikke er bratt,<br></br>man må ta med i betraktningen -</p>
+      <p begin="00:23:06.160" dur="00:00:05.160" style="left">- om man går i utløpet<br></br>  av eventuelle skred.</p>
+      <p begin="00:23:14.880" dur="00:00:04.420" style="left">Skal vi dele det i etapper<br></br>nedover også?</p>
+      <p begin="00:23:19.600" dur="00:00:04.420" style="left">Så vi har en foran på vei ned -</p>
+      <p begin="00:23:24.320" dur="00:00:04.660" style="left">- som tar avgjørelser<br></br>  og diskuterer med gruppa?</p>
+      <p begin="00:23:29.280" dur="00:00:05.520" style="left">I dag var jeg så heldig<br></br>å få dele landskapet.</p>
+      <p begin="00:23:39.600" dur="00:00:06.560" style="left">Er det kontorlandskap? Man deler det<br></br>med flere, men man sitter spredt?</p>
+      <p begin="00:24:30.720" dur="00:00:04.460" style="left">Hvor er rypa hen?</p>
+      <p begin="00:24:35.480" dur="00:00:05.440" style="left">Det er spor overalt bakover her.<br></br>Men det er ingen fugler.</p>
+      <p begin="00:24:43.720" dur="00:00:05.560" style="left">Det er reven som har skremt den.<br></br>Det virker slik.</p>
+      <p begin="00:24:54.640" dur="00:00:05.520" style="left">Det er ikke så enkelt<br></br>at man bare kan fylle sekken sin.</p>
+      <p begin="00:25:02.600" dur="00:00:04.160" style="left">Men jeg har hatt en bra dag likevel.</p>
+      <p begin="00:25:17.960" dur="00:00:05.280" style="left">Dette er feit ved.<br></br>Tyri, som de sier på flatbygdene.</p>
+      <p begin="00:25:27.080" dur="00:00:03.660" style="left">Det er slik det skulle vært.</p>
+      <p begin="00:25:31.040" dur="00:00:05.000" style="left">Dette er furu fra Bøverdalen.<br></br>Den brenner godt.</p>
+      <p begin="00:25:37.040" dur="00:00:04.580" style="left">Det er fordi den er feit og fin.<br></br>Rene eksplosiven.</p>
+      <p begin="00:25:41.920" dur="00:00:04.700" style="left">Den blir ofte slik<br></br>der det vokser sent.</p>
+      <p begin="00:25:46.920" dur="00:00:04.920" style="left">Og her vokser jo ikke<br></br>skogen plagsomt fort.</p>
+      <p begin="00:25:55.120" dur="00:00:04.820" style="left">Kjell har lagt bak seg nok et år<br></br>med fjellføring om sommeren, -</p>
+      <p begin="00:26:00.240" dur="00:00:05.180" style="left">- jakt på høsten, reingjeting på<br></br>  førjulsvinteren og hvile på våren.</p>
+      <p begin="00:26:05.720" dur="00:00:05.980" style="left">Slik har han hatt det<br></br>nesten hele sitt voksne liv.</p>
+      <p begin="00:26:12.000" dur="00:00:07.100" style="left">Jeg har tenkt på hva jeg kunne gjort<br></br>hvis jeg skulle ha gjort noe annet.</p>
+      <p begin="00:26:19.400" dur="00:00:06.340" style="left">Men jeg tok et valg en gang.<br></br>Da jeg begynte å gjete, -</p>
+      <p begin="00:26:26.040" dur="00:00:06.660" style="left">- var jeg akkurat ferdig utdannet.<br></br>  Jeg gikk på skogskole i Østerdalen.</p>
+      <p begin="00:26:33.000" dur="00:00:07.080" style="left">Men det fristet mye mer med<br></br>et fjelliv enn en kontorjobb.</p>
+      <p begin="00:26:41.440" dur="00:00:04.20" style="left">Så da gikk jeg for det.</p>
+      <p begin="00:26:45.760" dur="00:00:06.740" style="left">Bak ham glitrer Galdhøpiggen. Den og<br></br>Kjell har en lang historie sammen.</p>
+      <p begin="00:26:52.800" dur="00:00:04.940" style="left">Opp dit skal han mange ganger før<br></br>han parkerer fjellskoene for godt.</p>
+      <p begin="00:26:58.040" dur="00:00:04.840" style="left">Det skal være 1000 før jeg dør.</p>
+      <p begin="00:27:04.640" dur="00:00:04.160" style="left">Gå så mange som mulig før jeg dør.</p>
+      <p begin="00:27:09.920" dur="00:00:06.700" style="left">Men jeg nærmer meg mitt første<br></br>delmål - 1000 turer på toppen.</p>
+      <p begin="00:27:16.920" dur="00:00:04.660" style="left">Nå er jeg på 859.</p>
+      <p begin="00:27:21.880" dur="00:00:05.300" style="left">Å få 1000 er som et lite mål.<br></br>Det er kanskje toskete å si det.</p>
+      <p begin="00:27:27.480" dur="00:00:05.720" style="left">Men når jeg er så nær ...<br></br>Det skal vel gå, det.</p>
+      <p begin="00:27:34.200" dur="00:00:03.880" style="left">Jeg er ikke 100 år ennå.</p>
+      <p begin="00:27:52.880" dur="00:00:06.300" style="left">Nå skal vi legge på spor som grunnlag<br></br>for å kviste ruta inn til Olavsbu.</p>
+      <p begin="00:27:59.480" dur="00:00:05.380" style="left">Det er en av de store selvbetjente<br></br>hyttene til DNT.</p>
+      <p begin="00:28:05.160" dur="00:00:05.660" style="left">Det er en dagsmarsj fra Fondsbu,<br></br>og den mest populære ruta fra øst.</p>
+      <p begin="00:28:11.120" dur="00:00:04.200" style="left">Fondsbu-Olavsbu er mest brukt.</p>
+      <p begin="00:28:26.160" dur="00:00:06.100" style="left">Hun har ansvaret for å kjøre opp<br></br>og merke 200 km turløyper med kvist.</p>
+      <p begin="00:28:32.560" dur="00:00:06.120" style="left">Da trenger hun godt vær, god sikt<br></br>og en samarbeidsvillig snøskuter.</p>
+      <p begin="00:28:42.000" dur="00:00:03.680" style="left">Den vil ikke starte.</p>
+      <p begin="00:28:46.760" dur="00:00:04.860" style="left">Overheat, står det her fortsatt.<br></br>Må nok bare vente litt.</p>
+      <p begin="00:28:51.920" dur="00:00:04.260" style="left">Men det er flotte forhold<br></br>for å kjøle den ned.</p>
+      <p begin="00:28:56.480" dur="00:00:04.880" style="left">Hva er det nå? 23 minus?</p>
+      <p begin="00:29:12.520" dur="00:00:05.780" style="left">Den går bare varm. Man må<br></br>regne med at det er litt plunder.</p>
+      <p begin="00:29:18.600" dur="00:00:04.540" style="left">Men man kan ikke<br></br>bli stressa av den grunn.</p>
+      <p begin="00:29:23.440" dur="00:00:06.040" style="left">Hun gjør et siste forsøk på å komme<br></br>over den verste kneika på turen.</p>
+      <p begin="00:29:32.200" dur="00:00:06.480" style="left">Dette er helt umulig. Den gir seg.<br></br>Og derfor kjørte jeg meg fast her nå.</p>
+      <p begin="00:29:41.560" dur="00:00:04.000" style="left">Der, vet du.<br></br>Nå er vi løs.</p>
+      <p begin="00:29:50.760" dur="00:00:06.900" style="left">Er du på tur til Olavsbu? Vi driver<br></br>og kjører opp spor for å kviste.</p>
+      <p begin="00:29:57.960" dur="00:00:03.900" style="left">-Snakker du engelsk?<br></br>-Du er engelsk? Hvor er du fra?</p>
+      <p begin="00:30:02.160" dur="00:00:04.60" style="left">-Jeg bor i Frankrike.<br></br>-I Frankrike? Ja vel.</p>
+      <p begin="00:30:06.520" dur="00:00:03.60" style="left">Vi skal merke løypene til Olavsbu.</p>
+      <p begin="00:30:09.880" dur="00:00:04.60" style="left">Men jeg har problemer med skuteren<br></br>og må dra tilbake til Fondsbu.</p>
+      <p begin="00:30:14.240" dur="00:00:05.380" style="left">-Så du er ...?<br></br>-Jeg er vertinnen på Fondsbu.</p>
+      <p begin="00:30:19.920" dur="00:00:07.180" style="left">Dette er min 11. sesong. Mitt 11. år.<br></br>Og jeg vil sikkert fortsette i 11 år til!</p>
+      <p begin="00:30:27.400" dur="00:00:04.580" style="left">Det er livet mitt.<br></br>Jeg elsker det!</p>
+      <p begin="00:30:32.280" dur="00:00:05.900" style="left">Foran deg nå har du Høgbråthøgde,<br></br>og så får du Storegut på venstre side.</p>
+      <p begin="00:30:38.480" dur="00:00:03.100" style="left">Vi er her.</p>
+      <p begin="00:30:41.880" dur="00:00:03.760" style="left">God tur!<br></br>Og nyt den!</p>
+      <p begin="00:30:48.320" dur="00:00:04.540" style="left">Jeg merket med en gang.<br></br>Dette er en skikkelig fjellkar.</p>
+      <p begin="00:30:53.160" dur="00:00:05.560" style="left">Han blir ikke unødig stressa.<br></br>Trivelig å treffe slike folk.</p>
+      <p begin="00:31:03.320" dur="00:00:04.900" style="left">Sigrid og Sander nærmer seg hytta<br></br>og det avgjørende øyeblikket.</p>
+      <p begin="00:31:08.520" dur="00:00:06.200" style="left">Har Frudalsbui overlevd stormen,<br></br>eller må de sove ute i natt?</p>
+      <p begin="00:31:21.480" dur="00:00:06.100" style="left">Se her, da. Hytta er like hel.<br></br>Taket er rett vei, døra er igjen.</p>
+      <p begin="00:31:27.880" dur="00:00:06.200" style="left">Helt fantastisk! Vi må ikke<br></br>grave mye, heller. Den er like hel.</p>
+      <p begin="00:31:35.320" dur="00:00:04.60" style="left">Konge! Helt konge!</p>
+      <p begin="00:31:39.680" dur="00:00:05.800" style="left">Nå skal det bli nydelig<br></br>å komme inn og få spise middag.</p>
+      <p begin="00:31:48.720" dur="00:00:06.840" style="left">Døra sto enkelt imot vinterstormen.<br></br>Den er nemlig svært godt festet.</p>
+      <p begin="00:31:56.560" dur="00:00:03.540" style="left">Kanskje litt for godt festet?</p>
+      <p begin="00:32:00.400" dur="00:00:04.120" style="left">Vi skal komme oss inn.</p>
+      <p begin="00:32:09.160" dur="00:00:04.520" style="left">-Nei, nå ...<br></br>-Ta rundt hele.</p>
+      <p begin="00:32:16.240" dur="00:00:03.640" style="left">Klør du i fingrene?</p>
+      <p begin="00:32:28.440" dur="00:00:04.000" style="left">Kan det være så vanskelig?</p>
+      <p begin="00:32:34.320" dur="00:00:04.000" style="left">Å! Blir gal når man ikke får det til.</p>
+      <p begin="00:32:47.920" dur="00:00:04.240" style="left">Yeah! Bra!</p>
+      <p begin="00:32:56.760" dur="00:00:04.20" style="left">Den skal ikke være låst.</p>
+      <p begin="00:33:01.080" dur="00:00:06.540" style="left">Da onkel fikk lov til å sette den<br></br>opp, skulle det være ei nødbu.</p>
+      <p begin="00:33:07.920" dur="00:00:04.740" style="left">Hvis noen er i nød,<br></br>så kan de få bruke den.</p>
+      <p begin="00:33:12.960" dur="00:00:05.400" style="left">Hvis noen er i nød ...<br></br>Så får de ikke opp døra engang.</p>
+      <p begin="00:33:22.400" dur="00:00:06.880" style="left">Yeah! Bitte litt snøføyk<br></br>og litte grann råteluft.</p>
+      <p begin="00:33:34.400" dur="00:00:03.240" style="left">Supert!</p>
+      <p begin="00:33:58.920" dur="00:00:05.680" style="left">Du sov godt?<br></br>Nesten for varmt?</p>
+      <p begin="00:34:06.200" dur="00:00:06.60" style="left">18 år siden.<br></br>18 år siden vi kom opp hit.</p>
+      <p begin="00:34:12.560" dur="00:00:06.200" style="left">Og så mye er det skrevet i hytteboka<br></br>på 18 år. Så det er ikke hver helg.</p>
+      <p begin="00:34:19.840" dur="00:00:05.940" style="left">"Nå har det snødd nye 10 cm, og<br></br> skikjøringen ned blir spennende."</p>
+      <p begin="00:34:26.080" dur="00:00:03.960" style="left">-"Tusen takk for oss." Godkjent?<br></br>-Ja.</p>
+      <p begin="00:34:32.040" dur="00:00:03.000" style="left">Da må vi underskrive.</p>
+      <p begin="00:34:38.080" dur="00:00:04.460" style="left">Sigrid har mistet han hun elsket, -</p>
+      <p begin="00:34:42.840" dur="00:00:04.300" style="left">- sørget over ham<br></br>  og greid å elske igjen.</p>
+      <p begin="00:34:47.440" dur="00:00:06.000" style="left">Alt forandrer seg hele tiden,<br></br>og ingenting varer evig.</p>
+      <p begin="00:34:54.760" dur="00:00:05.860" style="left">Siden Arne døde, har det vært<br></br>utrolig mye berg-og-dal-bane.</p>
+      <p begin="00:35:00.920" dur="00:00:03.740" style="left">Livet føles ofte som en karusell.</p>
+      <p begin="00:35:04.960" dur="00:00:05.300" style="left">Man må bare holde seg fast og fyke<br></br>av sted. Men jeg holder godt fast.</p>
+      <p begin="00:35:10.560" dur="00:00:05.420" style="left">Jeg blir ikke parkert. Og så ler jeg<br></br>og gråter om hverandre.</p>
+      <p begin="00:35:16.280" dur="00:00:05.260" style="left">Og deler det med dem<br></br>jeg har rundt meg.</p>
+      <p begin="00:35:21.840" dur="00:00:07.20" style="left">Jeg har det bra. Sander er mye<br></br>av grunnen til at jeg har det bra.</p>
+      <p begin="00:35:29.160" dur="00:00:05.860" style="left">Han tåler både opp- og nedturene,<br></br>og vi leker sammen.</p>
+      <p begin="00:35:35.320" dur="00:00:06.720" style="left">Å ha noen jeg kan leke med og gjøre<br></br>dette med, det er det som er livet.</p>
+      <p begin="00:35:47.080" dur="00:00:03.600" style="left">Her er det masse.</p>
+      <p begin="00:36:11.160" dur="00:00:03.620" style="left">-Er du sliten nå?<br></br>-Nei.</p>
+      <p begin="00:36:15.080" dur="00:00:05.780" style="left">Var det morsomt å kjøre ned?<br></br>Husker du hvor mange ganger vi datt?</p>
+      <p begin="00:36:21.160" dur="00:00:05.360" style="left">-Ja? Var det mange ganger?<br></br>-En, to, tre ...</p>
+      <p begin="00:36:31.360" dur="00:00:03.800" style="left">Mange ganger.</p>
+      <p begin="00:36:36.160" dur="00:00:08.340" style="left">Vi hadde en veldig fin dag. Men nå<br></br>er det såpass sent, at vi kanskje ...</p>
+      <p begin="00:36:44.800" dur="00:00:03.640" style="left">Kan jeg få en banan?</p>
+      <p begin="00:36:53.120" dur="00:00:03.700" style="left">Man må prøve å være<br></br>til stede der man er.</p>
+      <p begin="00:36:57.120" dur="00:00:04.460" style="left">Det er ingen vits i å sitte på en<br></br>fjelltopp i godt vær og lengte hjem.</p>
+      <p begin="00:37:01.880" dur="00:00:05.340" style="left">Eller å sitte hjemme og lengte<br></br>etter en fjelltopp i godt vær.</p>
+      <p begin="00:37:07.520" dur="00:00:06.000" style="left">Man må prøve å finne gleden i det<br></br>man holder på med der man er.</p>
+      <p begin="00:37:19.000" dur="00:00:06.900" style="center">Når me sittar oppå<br></br>høge nutar,</p>
+      <p begin="00:37:26.200" dur="00:00:06.900" style="center">og ser på alt som Gud<br></br>så vent har gjort,</p>
+      <p begin="00:37:33.400" dur="00:00:05.980" style="center">er det reint som hjarta<br></br>let seg luta</p>
+      <p begin="00:37:39.680" dur="00:00:06.400" style="center">ned for han<br></br>som eig alt smått og stort.</p>
+      <p begin="00:37:47.000" dur="00:00:06.820" style="center">Visste du kor titt<br></br>eg på deg tenkjer</p>
+      <p begin="00:37:54.120" dur="00:00:07.180" style="center">når eg går omkring<br></br>i li og fjell?</p>
+      <p begin="00:38:01.600" dur="00:00:06.420" style="center">Visste du kor titt<br></br>ei tåre blenkjar</p>
+      <p begin="00:38:08.320" dur="00:00:06.560" style="center">når eg sit åleine<br></br>seint om kveld?</p>
+    </div>
+  </body>
+</tt>

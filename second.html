@@ -1,0 +1,68 @@
+<html>
+<script src="http://mbostock.github.com/d3/d3.v2.js"></script>
+<script src="https://raw.github.com/jasondavies/d3-cloud/master/d3.layout.cloud.js"></script>
+<body>
+<script>
+d3.json(
+  './words.with.totals.json',
+  function (jsondata) {
+//	console.log(jsondata);
+
+d3.layout.cloud().size([500, 500])
+      .words(jsondata.map(function(d) {
+	var o = {};
+	o.text = d.name;
+	o.size = parseInt(d.total);
+
+	if (o.size < 10 ) {
+		o.size +=6;
+	}
+
+	return o;       
+//	return {text: d.name, size: 10  + parseFloat(d.total) * 90};
+      }))
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)
+      .start();
+/*
+  function draw(words) {
+    d3.select("body").append("svg")
+        .attr("width", 300)
+        .attr("height", 300)
+      .append("g")
+        .attr("transform", "translate(150,150)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+  }
+*/
+
+  });
+
+function draw(words) {
+console.log(words);
+    d3.select("body").append("svg")
+        .attr("width", 500)
+        .attr("height", 500)
+      .append("g")
+        .attr("transform", "translate(150,150)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+  }
+
+</script>
+</html>

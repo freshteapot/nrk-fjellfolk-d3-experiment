@@ -1,0 +1,3454 @@
+[
+    {
+        "name": "det", 
+        "total": "127"
+    }, 
+    {
+        "name": "er", 
+        "total": "127"
+    }, 
+    {
+        "name": "jeg", 
+        "total": "68"
+    }, 
+    {
+        "name": "og", 
+        "total": "64"
+    }, 
+    {
+        "name": "p\u00e5", 
+        "total": "55"
+    }, 
+    {
+        "name": "vi", 
+        "total": "55"
+    }, 
+    {
+        "name": "har", 
+        "total": "52"
+    }, 
+    {
+        "name": "i", 
+        "total": "47"
+    }, 
+    {
+        "name": "en", 
+        "total": "37"
+    }, 
+    {
+        "name": "den", 
+        "total": "36"
+    }, 
+    {
+        "name": "\u00e5", 
+        "total": "34"
+    }, 
+    {
+        "name": "ikke", 
+        "total": "33"
+    }, 
+    {
+        "name": "s\u00e5", 
+        "total": "33"
+    }, 
+    {
+        "name": "men", 
+        "total": "32"
+    }, 
+    {
+        "name": "n\u00e5", 
+        "total": "31"
+    }, 
+    {
+        "name": "som", 
+        "total": "29"
+    }, 
+    {
+        "name": "du", 
+        "total": "24"
+    }, 
+    {
+        "name": "med", 
+        "total": "24"
+    }, 
+    {
+        "name": "skal", 
+        "total": "24"
+    }, 
+    {
+        "name": "til", 
+        "total": "23"
+    }, 
+    {
+        "name": "for", 
+        "total": "22"
+    }, 
+    {
+        "name": "man", 
+        "total": "22"
+    }, 
+    {
+        "name": "her", 
+        "total": "21"
+    }, 
+    {
+        "name": "da", 
+        "total": "20"
+    }, 
+    {
+        "name": "kan", 
+        "total": "20"
+    }, 
+    {
+        "name": "m\u00e5", 
+        "total": "19"
+    }, 
+    {
+        "name": "de", 
+        "total": "16"
+    }, 
+    {
+        "name": "opp", 
+        "total": "15"
+    }, 
+    {
+        "name": "meg", 
+        "total": "14"
+    }, 
+    {
+        "name": "der", 
+        "total": "13"
+    }, 
+    {
+        "name": "dette", 
+        "total": "13"
+    }, 
+    {
+        "name": "godt", 
+        "total": "13"
+    }, 
+    {
+        "name": "at", 
+        "total": "12"
+    }, 
+    {
+        "name": "blir", 
+        "total": "12"
+    }, 
+    {
+        "name": "g\u00e5", 
+        "total": "12"
+    }, 
+    {
+        "name": "han", 
+        "total": "12"
+    }, 
+    {
+        "name": "seg", 
+        "total": "12"
+    }, 
+    {
+        "name": "ja", 
+        "total": "11"
+    }, 
+    {
+        "name": "om", 
+        "total": "11"
+    }, 
+    {
+        "name": "fra", 
+        "total": "10"
+    }, 
+    {
+        "name": "f\u00e5", 
+        "total": "10"
+    }, 
+    {
+        "name": "mange", 
+        "total": "10"
+    }, 
+    {
+        "name": "mye", 
+        "total": "9"
+    }, 
+    {
+        "name": "ned", 
+        "total": "9"
+    }, 
+    {
+        "name": "n\u00e5r", 
+        "total": "9"
+    }, 
+    {
+        "name": "oss", 
+        "total": "9"
+    }, 
+    {
+        "name": "ser", 
+        "total": "9"
+    }, 
+    {
+        "name": "f\u00e5r", 
+        "total": "8"
+    }, 
+    {
+        "name": "hytta", 
+        "total": "8"
+    }, 
+    {
+        "name": "var", 
+        "total": "8"
+    }, 
+    {
+        "name": "av", 
+        "total": "7"
+    }, 
+    {
+        "name": "bare", 
+        "total": "7"
+    }, 
+    {
+        "name": "dag", 
+        "total": "7"
+    }, 
+    {
+        "name": "f\u00f8r", 
+        "total": "7"
+    }, 
+    {
+        "name": "hun", 
+        "total": "7"
+    }, 
+    {
+        "name": "hva", 
+        "total": "7"
+    }, 
+    {
+        "name": "inn", 
+        "total": "7"
+    }, 
+    {
+        "name": "kanskje", 
+        "total": "7"
+    }, 
+    {
+        "name": "kom", 
+        "total": "7"
+    }, 
+    {
+        "name": "litt", 
+        "total": "7"
+    }, 
+    {
+        "name": "noen", 
+        "total": "7"
+    }, 
+    {
+        "name": "vannet", 
+        "total": "7"
+    }, 
+    {
+        "name": "v\u00e6re", 
+        "total": "7"
+    }, 
+    {
+        "name": "bra", 
+        "total": "6"
+    }, 
+    {
+        "name": "et", 
+        "total": "6"
+    }, 
+    {
+        "name": "ganger", 
+        "total": "6"
+    }, 
+    {
+        "name": "god", 
+        "total": "6"
+    }, 
+    {
+        "name": "g\u00e5r", 
+        "total": "6"
+    }, 
+    {
+        "name": "ha", 
+        "total": "6"
+    }, 
+    {
+        "name": "hadde", 
+        "total": "6"
+    }, 
+    {
+        "name": "hjemme", 
+        "total": "6"
+    }, 
+    {
+        "name": "hvor", 
+        "total": "6"
+    }, 
+    {
+        "name": "igjen", 
+        "total": "6"
+    }, 
+    {
+        "name": "komme", 
+        "total": "6"
+    }, 
+    {
+        "name": "kommer", 
+        "total": "6"
+    }, 
+    {
+        "name": "noe", 
+        "total": "6"
+    }, 
+    {
+        "name": "over", 
+        "total": "6"
+    }, 
+    {
+        "name": "se", 
+        "total": "6"
+    }, 
+    {
+        "name": "selv", 
+        "total": "6"
+    }, 
+    {
+        "name": "\u00e5r", 
+        "total": "6"
+    }, 
+    {
+        "name": "etter", 
+        "total": "5"
+    }, 
+    {
+        "name": "fjellet", 
+        "total": "5"
+    }, 
+    {
+        "name": "gang", 
+        "total": "5"
+    }, 
+    {
+        "name": "min", 
+        "total": "5"
+    }, 
+    {
+        "name": "nei", 
+        "total": "5"
+    }, 
+    {
+        "name": "oppe", 
+        "total": "5"
+    }, 
+    {
+        "name": "pr\u00f8ve", 
+        "total": "5"
+    }, 
+    {
+        "name": "ronja", 
+        "total": "5"
+    }, 
+    {
+        "name": "siden", 
+        "total": "5"
+    }, 
+    {
+        "name": "sigrid", 
+        "total": "5"
+    }, 
+    {
+        "name": "skulle", 
+        "total": "5"
+    }, 
+    {
+        "name": "sn\u00f8", 
+        "total": "5"
+    }, 
+    {
+        "name": "spor", 
+        "total": "5"
+    }, 
+    {
+        "name": "tar", 
+        "total": "5"
+    }, 
+    {
+        "name": "to", 
+        "total": "5"
+    }, 
+    {
+        "name": "tror", 
+        "total": "5"
+    }, 
+    {
+        "name": "tur", 
+        "total": "5"
+    }, 
+    {
+        "name": "ut", 
+        "total": "5"
+    }, 
+    {
+        "name": "vil", 
+        "total": "5"
+    }, 
+    {
+        "name": "\u00c5", 
+        "total": "5"
+    }, 
+    {
+        "name": "ei", 
+        "total": "4"
+    }, 
+    {
+        "name": "eller", 
+        "total": "4"
+    }, 
+    {
+        "name": "fondsbu", 
+        "total": "4"
+    }, 
+    {
+        "name": "f\u00f8rste", 
+        "total": "4"
+    }, 
+    {
+        "name": "hele", 
+        "total": "4"
+    }, 
+    {
+        "name": "helt", 
+        "total": "4"
+    }, 
+    {
+        "name": "kj\u00f8re", 
+        "total": "4"
+    }, 
+    {
+        "name": "livet", 
+        "total": "4"
+    }, 
+    {
+        "name": "ofte", 
+        "total": "4"
+    }, 
+    {
+        "name": "ogs\u00e5", 
+        "total": "4"
+    }, 
+    {
+        "name": "reven", 
+        "total": "4"
+    }, 
+    {
+        "name": "slik", 
+        "total": "4"
+    }, 
+    {
+        "name": "spennende", 
+        "total": "4"
+    }, 
+    {
+        "name": "ta", 
+        "total": "4"
+    }, 
+    {
+        "name": "varm", 
+        "total": "4"
+    }, 
+    {
+        "name": "alene", 
+        "total": "3"
+    }, 
+    {
+        "name": "alt", 
+        "total": "3"
+    }, 
+    {
+        "name": "annet", 
+        "total": "3"
+    }, 
+    {
+        "name": "d\u00f8ra", 
+        "total": "3"
+    }, 
+    {
+        "name": "egen", 
+        "total": "3"
+    }, 
+    {
+        "name": "fast", 
+        "total": "3"
+    }, 
+    {
+        "name": "fin", 
+        "total": "3"
+    }, 
+    {
+        "name": "fjells", 
+        "total": "3"
+    }, 
+    {
+        "name": "foran", 
+        "total": "3"
+    }, 
+    {
+        "name": "fort", 
+        "total": "3"
+    }, 
+    {
+        "name": "f\u00f8re", 
+        "total": "3"
+    }, 
+    {
+        "name": "gikk", 
+        "total": "3"
+    }, 
+    {
+        "name": "gj\u00f8r", 
+        "total": "3"
+    }, 
+    {
+        "name": "greit", 
+        "total": "3"
+    }, 
+    {
+        "name": "g\u00e5tt", 
+        "total": "3"
+    }, 
+    {
+        "name": "ham", 
+        "total": "3"
+    }, 
+    {
+        "name": "hel", 
+        "total": "3"
+    }, 
+    {
+        "name": "huset", 
+        "total": "3"
+    }, 
+    {
+        "name": "hvis", 
+        "total": "3"
+    }, 
+    {
+        "name": "h\u00e5per", 
+        "total": "3"
+    }, 
+    {
+        "name": "jo", 
+        "total": "3"
+    }, 
+    {
+        "name": "kj\u00f8kkenet", 
+        "total": "3"
+    }, 
+    {
+        "name": "kviste", 
+        "total": "3"
+    }, 
+    {
+        "name": "mamma", 
+        "total": "3"
+    }, 
+    {
+        "name": "mitt", 
+        "total": "3"
+    }, 
+    {
+        "name": "nok", 
+        "total": "3"
+    }, 
+    {
+        "name": "n\u00e6rmer", 
+        "total": "3"
+    }, 
+    {
+        "name": "oi", 
+        "total": "3"
+    }, 
+    {
+        "name": "olavsbu", 
+        "total": "3"
+    }, 
+    {
+        "name": "pappa", 
+        "total": "3"
+    }, 
+    {
+        "name": "rett", 
+        "total": "3"
+    }, 
+    {
+        "name": "rundt", 
+        "total": "3"
+    }, 
+    {
+        "name": "ryggen", 
+        "total": "3"
+    }, 
+    {
+        "name": "sander", 
+        "total": "3"
+    }, 
+    {
+        "name": "sent", 
+        "total": "3"
+    }, 
+    {
+        "name": "sette", 
+        "total": "3"
+    }, 
+    {
+        "name": "si", 
+        "total": "3"
+    }, 
+    {
+        "name": "sier", 
+        "total": "3"
+    }, 
+    {
+        "name": "ski", 
+        "total": "3"
+    }, 
+    {
+        "name": "stemning", 
+        "total": "3"
+    }, 
+    {
+        "name": "stormen", 
+        "total": "3"
+    }, 
+    {
+        "name": "st\u00e5r", 
+        "total": "3"
+    }, 
+    {
+        "name": "svenja", 
+        "total": "3"
+    }, 
+    {
+        "name": "tenkt", 
+        "total": "3"
+    }, 
+    {
+        "name": "turen", 
+        "total": "3"
+    }, 
+    {
+        "name": "turer", 
+        "total": "3"
+    }, 
+    {
+        "name": "v\u00e6r", 
+        "total": "3"
+    }, 
+    {
+        "name": "akkurat", 
+        "total": "2"
+    }, 
+    {
+        "name": "andre", 
+        "total": "2"
+    }, 
+    {
+        "name": "bak", 
+        "total": "2"
+    }, 
+    {
+        "name": "begynner", 
+        "total": "2"
+    }, 
+    {
+        "name": "bli", 
+        "total": "2"
+    }, 
+    {
+        "name": "bor", 
+        "total": "2"
+    }, 
+    {
+        "name": "bort", 
+        "total": "2"
+    }, 
+    {
+        "name": "bortover", 
+        "total": "2"
+    }, 
+    {
+        "name": "bruke", 
+        "total": "2"
+    }, 
+    {
+        "name": "bu", 
+        "total": "2"
+    }, 
+    {
+        "name": "datt", 
+        "total": "2"
+    }, 
+    {
+        "name": "dele", 
+        "total": "2"
+    }, 
+    {
+        "name": "deler", 
+        "total": "2"
+    }, 
+    {
+        "name": "disse", 
+        "total": "2"
+    }, 
+    {
+        "name": "dit", 
+        "total": "2"
+    }, 
+    {
+        "name": "dyra", 
+        "total": "2"
+    }, 
+    {
+        "name": "d\u00f8r", 
+        "total": "2"
+    }, 
+    {
+        "name": "egentlig", 
+        "total": "2"
+    }, 
+    {
+        "name": "engelsk", 
+        "total": "2"
+    }, 
+    {
+        "name": "enn\u00e5", 
+        "total": "2"
+    }, 
+    {
+        "name": "feit", 
+        "total": "2"
+    }, 
+    {
+        "name": "festet", 
+        "total": "2"
+    }, 
+    {
+        "name": "flink", 
+        "total": "2"
+    }, 
+    {
+        "name": "folk", 
+        "total": "2"
+    }, 
+    {
+        "name": "fordi", 
+        "total": "2"
+    }, 
+    {
+        "name": "forh\u00e5pentligvis", 
+        "total": "2"
+    }, 
+    {
+        "name": "fortsatt", 
+        "total": "2"
+    }, 
+    {
+        "name": "framme", 
+        "total": "2"
+    }, 
+    {
+        "name": "frankrike", 
+        "total": "2"
+    }, 
+    {
+        "name": "fy", 
+        "total": "2"
+    }, 
+    {
+        "name": "f\u00f8ret", 
+        "total": "2"
+    }, 
+    {
+        "name": "f\u00f8rst", 
+        "total": "2"
+    }, 
+    {
+        "name": "ganske", 
+        "total": "2"
+    }, 
+    {
+        "name": "gj\u00f8re", 
+        "total": "2"
+    }, 
+    {
+        "name": "gode", 
+        "total": "2"
+    }, 
+    {
+        "name": "grusomt", 
+        "total": "2"
+    }, 
+    {
+        "name": "hatt", 
+        "total": "2"
+    }, 
+    {
+        "name": "helg", 
+        "total": "2"
+    }, 
+    {
+        "name": "heller", 
+        "total": "2"
+    }, 
+    {
+        "name": "henne", 
+        "total": "2"
+    }, 
+    {
+        "name": "hit", 
+        "total": "2"
+    }, 
+    {
+        "name": "hjem", 
+        "total": "2"
+    }, 
+    {
+        "name": "hodet", 
+        "total": "2"
+    }, 
+    {
+        "name": "holder", 
+        "total": "2"
+    }, 
+    {
+        "name": "hytte", 
+        "total": "2"
+    }, 
+    {
+        "name": "ingen", 
+        "total": "2"
+    }, 
+    {
+        "name": "jakter", 
+        "total": "2"
+    }, 
+    {
+        "name": "januar", 
+        "total": "2"
+    }, 
+    {
+        "name": "klatre", 
+        "total": "2"
+    }, 
+    {
+        "name": "kommet", 
+        "total": "2"
+    }, 
+    {
+        "name": "konge", 
+        "total": "2"
+    }, 
+    {
+        "name": "lagt", 
+        "total": "2"
+    }, 
+    {
+        "name": "like", 
+        "total": "2"
+    }, 
+    {
+        "name": "liv", 
+        "total": "2"
+    }, 
+    {
+        "name": "lua", 
+        "total": "2"
+    }, 
+    {
+        "name": "lukas", 
+        "total": "2"
+    }, 
+    {
+        "name": "l\u00e5ne", 
+        "total": "2"
+    }, 
+    {
+        "name": "l\u00f8ssn\u00f8en", 
+        "total": "2"
+    }, 
+    {
+        "name": "medp\u00e5", 
+        "total": "2"
+    }, 
+    {
+        "name": "mer", 
+        "total": "2"
+    }, 
+    {
+        "name": "merke", 
+        "total": "2"
+    }, 
+    {
+        "name": "mest", 
+        "total": "2"
+    }, 
+    {
+        "name": "mulig", 
+        "total": "2"
+    }, 
+    {
+        "name": "nesten", 
+        "total": "2"
+    }, 
+    {
+        "name": "n\u00e5dd", 
+        "total": "2"
+    }, 
+    {
+        "name": "n\u00f8d", 
+        "total": "2"
+    }, 
+    {
+        "name": "overlevd", 
+        "total": "2"
+    }, 
+    {
+        "name": "regner", 
+        "total": "2"
+    }, 
+    {
+        "name": "ruta", 
+        "total": "2"
+    }, 
+    {
+        "name": "r\u00f8dnissejenta", 
+        "total": "2"
+    }, 
+    {
+        "name": "r\u00f8mme", 
+        "total": "2"
+    }, 
+    {
+        "name": "sammen", 
+        "total": "2"
+    }, 
+    {
+        "name": "satt", 
+        "total": "2"
+    }, 
+    {
+        "name": "setter", 
+        "total": "2"
+    }, 
+    {
+        "name": "sitte", 
+        "total": "2"
+    }, 
+    {
+        "name": "skjedd", 
+        "total": "2"
+    }, 
+    {
+        "name": "skjer", 
+        "total": "2"
+    }, 
+    {
+        "name": "skremt", 
+        "total": "2"
+    }, 
+    {
+        "name": "sommeren", 
+        "total": "2"
+    }, 
+    {
+        "name": "sov", 
+        "total": "2"
+    }, 
+    {
+        "name": "stemmer", 
+        "total": "2"
+    }, 
+    {
+        "name": "stressa", 
+        "total": "2"
+    }, 
+    {
+        "name": "st\u00e5", 
+        "total": "2"
+    }, 
+    {
+        "name": "s\u00f8ren", 
+        "total": "2"
+    }, 
+    {
+        "name": "terreng", 
+        "total": "2"
+    }, 
+    {
+        "name": "toppen", 
+        "total": "2"
+    }, 
+    {
+        "name": "tramp", 
+        "total": "2"
+    }, 
+    {
+        "name": "tyskland", 
+        "total": "2"
+    }, 
+    {
+        "name": "ute", 
+        "total": "2"
+    }, 
+    {
+        "name": "uv\u00e6ret", 
+        "total": "2"
+    }, 
+    {
+        "name": "vann", 
+        "total": "2"
+    }, 
+    {
+        "name": "vanskelig", 
+        "total": "2"
+    }, 
+    {
+        "name": "varmt", 
+        "total": "2"
+    }, 
+    {
+        "name": "ved", 
+        "total": "2"
+    }, 
+    {
+        "name": "vei", 
+        "total": "2"
+    }, 
+    {
+        "name": "vel", 
+        "total": "2"
+    }, 
+    {
+        "name": "veldig", 
+        "total": "2"
+    }, 
+    {
+        "name": "venn", 
+        "total": "2"
+    }, 
+    {
+        "name": "vinteren", 
+        "total": "2"
+    }, 
+    {
+        "name": "vokser", 
+        "total": "2"
+    }, 
+    {
+        "name": "v\u00e6rt", 
+        "total": "2"
+    }, 
+    {
+        "name": "yeah", 
+        "total": "2"
+    }, 
+    {
+        "name": "\u00f8delagt", 
+        "total": "2"
+    }, 
+    {
+        "name": "aller", 
+        "total": "1"
+    }, 
+    {
+        "name": "allerede", 
+        "total": "1"
+    }, 
+    {
+        "name": "alltid", 
+        "total": "1"
+    }, 
+    {
+        "name": "alpinski", 
+        "total": "1"
+    }, 
+    {
+        "name": "alternativet", 
+        "total": "1"
+    }, 
+    {
+        "name": "alts\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "andreas", 
+        "total": "1"
+    }, 
+    {
+        "name": "ankommet", 
+        "total": "1"
+    }, 
+    {
+        "name": "ansvaret", 
+        "total": "1"
+    }, 
+    {
+        "name": "april", 
+        "total": "1"
+    }, 
+    {
+        "name": "arne", 
+        "total": "1"
+    }, 
+    {
+        "name": "artig", 
+        "total": "1"
+    }, 
+    {
+        "name": "avdet", 
+        "total": "1"
+    }, 
+    {
+        "name": "avgj\u00f8relser", 
+        "total": "1"
+    }, 
+    {
+        "name": "avgj\u00f8rende", 
+        "total": "1"
+    }, 
+    {
+        "name": "bakover", 
+        "total": "1"
+    }, 
+    {
+        "name": "bakset", 
+        "total": "1"
+    }, 
+    {
+        "name": "banan", 
+        "total": "1"
+    }, 
+    {
+        "name": "barei", 
+        "total": "1"
+    }, 
+    {
+        "name": "barn", 
+        "total": "1"
+    }, 
+    {
+        "name": "barnehageog", 
+        "total": "1"
+    }, 
+    {
+        "name": "bedre", 
+        "total": "1"
+    }, 
+    {
+        "name": "begynnelsen", 
+        "total": "1"
+    }, 
+    {
+        "name": "begynte", 
+        "total": "1"
+    }, 
+    {
+        "name": "bekken", 
+        "total": "1"
+    }, 
+    {
+        "name": "berg-og-dal-bane", 
+        "total": "1"
+    }, 
+    {
+        "name": "beste", 
+        "total": "1"
+    }, 
+    {
+        "name": "betraktningen", 
+        "total": "1"
+    }, 
+    {
+        "name": "bildene", 
+        "total": "1"
+    }, 
+    {
+        "name": "bitte", 
+        "total": "1"
+    }, 
+    {
+        "name": "ble", 
+        "total": "1"
+    }, 
+    {
+        "name": "blitt", 
+        "total": "1"
+    }, 
+    {
+        "name": "blokka", 
+        "total": "1"
+    }, 
+    {
+        "name": "borte", 
+        "total": "1"
+    }, 
+    {
+        "name": "bortskjemtemed", 
+        "total": "1"
+    }, 
+    {
+        "name": "bratt", 
+        "total": "1"
+    }, 
+    {
+        "name": "bratte", 
+        "total": "1"
+    }, 
+    {
+        "name": "brede", 
+        "total": "1"
+    }, 
+    {
+        "name": "brenner", 
+        "total": "1"
+    }, 
+    {
+        "name": "bruddforplantninger", 
+        "total": "1"
+    }, 
+    {
+        "name": "bruk", 
+        "total": "1"
+    }, 
+    {
+        "name": "brukt", 
+        "total": "1"
+    }, 
+    {
+        "name": "br\u00e5tt", 
+        "total": "1"
+    }, 
+    {
+        "name": "bygd", 
+        "total": "1"
+    }, 
+    {
+        "name": "b\u00e5de", 
+        "total": "1"
+    }, 
+    {
+        "name": "b\u00f8verdalen", 
+        "total": "1"
+    }, 
+    {
+        "name": "cheers", 
+        "total": "1"
+    }, 
+    {
+        "name": "cm", 
+        "total": "1"
+    }, 
+    {
+        "name": "dager", 
+        "total": "1"
+    }, 
+    {
+        "name": "dagp\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "dagsmarsj", 
+        "total": "1"
+    }, 
+    {
+        "name": "deg", 
+        "total": "1"
+    }, 
+    {
+        "name": "deilig", 
+        "total": "1"
+    }, 
+    {
+        "name": "demjeg", 
+        "total": "1"
+    }, 
+    {
+        "name": "demog", 
+        "total": "1"
+    }, 
+    {
+        "name": "denne", 
+        "total": "1"
+    }, 
+    {
+        "name": "denopp", 
+        "total": "1"
+    }, 
+    {
+        "name": "dere", 
+        "total": "1"
+    }, 
+    {
+        "name": "derfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "desto", 
+        "total": "1"
+    }, 
+    {
+        "name": "deter", 
+        "total": "1"
+    }, 
+    {
+        "name": "detman", 
+        "total": "1"
+    }, 
+    {
+        "name": "detmed", 
+        "total": "1"
+    }, 
+    {
+        "name": "detmerker", 
+        "total": "1"
+    }, 
+    {
+        "name": "detnesten", 
+        "total": "1"
+    }, 
+    {
+        "name": "detogs\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "detter", 
+        "total": "1"
+    }, 
+    {
+        "name": "di", 
+        "total": "1"
+    }, 
+    {
+        "name": "diger", 
+        "total": "1"
+    }, 
+    {
+        "name": "diskuterer", 
+        "total": "1"
+    }, 
+    {
+        "name": "ditt", 
+        "total": "1"
+    }, 
+    {
+        "name": "dnt", 
+        "total": "1"
+    }, 
+    {
+        "name": "do", 
+        "total": "1"
+    }, 
+    {
+        "name": "dra", 
+        "total": "1"
+    }, 
+    {
+        "name": "drikke", 
+        "total": "1"
+    }, 
+    {
+        "name": "drikker", 
+        "total": "1"
+    }, 
+    {
+        "name": "driver", 
+        "total": "1"
+    }, 
+    {
+        "name": "driverog", 
+        "total": "1"
+    }, 
+    {
+        "name": "dro", 
+        "total": "1"
+    }, 
+    {
+        "name": "dr\u00f8mme", 
+        "total": "1"
+    }, 
+    {
+        "name": "dumpa", 
+        "total": "1"
+    }, 
+    {
+        "name": "dusje", 
+        "total": "1"
+    }, 
+    {
+        "name": "dvalev\u00e5kner", 
+        "total": "1"
+    }, 
+    {
+        "name": "d\u00f8de", 
+        "total": "1"
+    }, 
+    {
+        "name": "egner", 
+        "total": "1"
+    }, 
+    {
+        "name": "eksplosiven", 
+        "total": "1"
+    }, 
+    {
+        "name": "elske", 
+        "total": "1"
+    }, 
+    {
+        "name": "elsker", 
+        "total": "1"
+    }, 
+    {
+        "name": "elsket", 
+        "total": "1"
+    }, 
+    {
+        "name": "enfjelltopp", 
+        "total": "1"
+    }, 
+    {
+        "name": "engang", 
+        "total": "1"
+    }, 
+    {
+        "name": "enkelt", 
+        "total": "1"
+    }, 
+    {
+        "name": "enkeltat", 
+        "total": "1"
+    }, 
+    {
+        "name": "enn", 
+        "total": "1"
+    }, 
+    {
+        "name": "enreligi\u00f8s", 
+        "total": "1"
+    }, 
+    {
+        "name": "eren", 
+        "total": "1"
+    }, 
+    {
+        "name": "erlike", 
+        "total": "1"
+    }, 
+    {
+        "name": "er\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "etappernedover", 
+        "total": "1"
+    }, 
+    {
+        "name": "etterlot", 
+        "total": "1"
+    }, 
+    {
+        "name": "etterp\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "eventuelle", 
+        "total": "1"
+    }, 
+    {
+        "name": "eventyrtur", 
+        "total": "1"
+    }, 
+    {
+        "name": "evig", 
+        "total": "1"
+    }, 
+    {
+        "name": "falt", 
+        "total": "1"
+    }, 
+    {
+        "name": "familien", 
+        "total": "1"
+    }, 
+    {
+        "name": "fantastisk", 
+        "total": "1"
+    }, 
+    {
+        "name": "farlig", 
+        "total": "1"
+    }, 
+    {
+        "name": "farten", 
+        "total": "1"
+    }, 
+    {
+        "name": "februar", 
+        "total": "1"
+    }, 
+    {
+        "name": "februarbruker", 
+        "total": "1"
+    }, 
+    {
+        "name": "fengslet", 
+        "total": "1"
+    }, 
+    {
+        "name": "ferdig", 
+        "total": "1"
+    }, 
+    {
+        "name": "fikk", 
+        "total": "1"
+    }, 
+    {
+        "name": "fingrene", 
+        "total": "1"
+    }, 
+    {
+        "name": "finn", 
+        "total": "1"
+    }, 
+    {
+        "name": "finne", 
+        "total": "1"
+    }, 
+    {
+        "name": "finner", 
+        "total": "1"
+    }, 
+    {
+        "name": "fint", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellf\u00f8ring", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjelliv", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellkar", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellsida", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellsider", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellskoene", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjelltopp", 
+        "total": "1"
+    }, 
+    {
+        "name": "fjellvann", 
+        "total": "1"
+    }, 
+    {
+        "name": "flatbygdene", 
+        "total": "1"
+    }, 
+    {
+        "name": "flere", 
+        "total": "1"
+    }, 
+    {
+        "name": "fleste", 
+        "total": "1"
+    }, 
+    {
+        "name": "flotte", 
+        "total": "1"
+    }, 
+    {
+        "name": "flotteste", 
+        "total": "1"
+    }, 
+    {
+        "name": "flyger", 
+        "total": "1"
+    }, 
+    {
+        "name": "flytte", 
+        "total": "1"
+    }, 
+    {
+        "name": "flytter", 
+        "total": "1"
+    }, 
+    {
+        "name": "fokus", 
+        "total": "1"
+    }, 
+    {
+        "name": "fondsbu-olavsbu", 
+        "total": "1"
+    }, 
+    {
+        "name": "forandrer", 
+        "total": "1"
+    }, 
+    {
+        "name": "forferdelige", 
+        "total": "1"
+    }, 
+    {
+        "name": "forholdfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "forskjellige", 
+        "total": "1"
+    }, 
+    {
+        "name": "fors\u00f8k", 
+        "total": "1"
+    }, 
+    {
+        "name": "fortsette", 
+        "total": "1"
+    }, 
+    {
+        "name": "fortsetterhelt", 
+        "total": "1"
+    }, 
+    {
+        "name": "fram", 
+        "total": "1"
+    }, 
+    {
+        "name": "framover", 
+        "total": "1"
+    }, 
+    {
+        "name": "fri", 
+        "total": "1"
+    }, 
+    {
+        "name": "frisk", 
+        "total": "1"
+    }, 
+    {
+        "name": "frister", 
+        "total": "1"
+    }, 
+    {
+        "name": "fristet", 
+        "total": "1"
+    }, 
+    {
+        "name": "frudalsbui", 
+        "total": "1"
+    }, 
+    {
+        "name": "frudalsfjellhytta", 
+        "total": "1"
+    }, 
+    {
+        "name": "fuglehund", 
+        "total": "1"
+    }, 
+    {
+        "name": "fuglene", 
+        "total": "1"
+    }, 
+    {
+        "name": "fugler", 
+        "total": "1"
+    }, 
+    {
+        "name": "full", 
+        "total": "1"
+    }, 
+    {
+        "name": "furu", 
+        "total": "1"
+    }, 
+    {
+        "name": "fykeav", 
+        "total": "1"
+    }, 
+    {
+        "name": "fylle", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00e5tt", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8les", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8lge", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8rhan", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8rjulsvinteren", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8ross", 
+        "total": "1"
+    }, 
+    {
+        "name": "f\u00f8rstedelm\u00e5l", 
+        "total": "1"
+    }, 
+    {
+        "name": "gal", 
+        "total": "1"
+    }, 
+    {
+        "name": "galdh\u00f8piggen", 
+        "total": "1"
+    }, 
+    {
+        "name": "geologer", 
+        "total": "1"
+    }, 
+    {
+        "name": "gir", 
+        "total": "1"
+    }, 
+    {
+        "name": "gjerne", 
+        "total": "1"
+    }, 
+    {
+        "name": "gjestene", 
+        "total": "1"
+    }, 
+    {
+        "name": "gjete", 
+        "total": "1"
+    }, 
+    {
+        "name": "gjort", 
+        "total": "1"
+    }, 
+    {
+        "name": "gjorthvis", 
+        "total": "1"
+    }, 
+    {
+        "name": "gj\u00f8redette", 
+        "total": "1"
+    }, 
+    {
+        "name": "gj\u00f8res", 
+        "total": "1"
+    }, 
+    {
+        "name": "gleden", 
+        "total": "1"
+    }, 
+    {
+        "name": "glemt\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "glitrer", 
+        "total": "1"
+    }, 
+    {
+        "name": "godkjent", 
+        "total": "1"
+    }, 
+    {
+        "name": "grader", 
+        "total": "1"
+    }, 
+    {
+        "name": "grann", 
+        "total": "1"
+    }, 
+    {
+        "name": "greid", 
+        "total": "1"
+    }, 
+    {
+        "name": "gresssom", 
+        "total": "1"
+    }, 
+    {
+        "name": "grunn", 
+        "total": "1"
+    }, 
+    {
+        "name": "grunnen", 
+        "total": "1"
+    }, 
+    {
+        "name": "grunnlagfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "gruppa", 
+        "total": "1"
+    }, 
+    {
+        "name": "gr\u00e5ter", 
+        "total": "1"
+    }, 
+    {
+        "name": "gutt", 
+        "total": "1"
+    }, 
+    {
+        "name": "g\u00e5ttover", 
+        "total": "1"
+    }, 
+    {
+        "name": "g\u00f8y", 
+        "total": "1"
+    }, 
+    {
+        "name": "hanflyttet", 
+        "total": "1"
+    }, 
+    {
+        "name": "hans", 
+        "total": "1"
+    }, 
+    {
+        "name": "hardere", 
+        "total": "1"
+    }, 
+    {
+        "name": "harikke", 
+        "total": "1"
+    }, 
+    {
+        "name": "harkjempelyst", 
+        "total": "1"
+    }, 
+    {
+        "name": "heftig", 
+        "total": "1"
+    }, 
+    {
+        "name": "heldige", 
+        "total": "1"
+    }, 
+    {
+        "name": "heldig\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "hen", 
+        "total": "1"
+    }, 
+    {
+        "name": "herlig", 
+        "total": "1"
+    }, 
+    {
+        "name": "historie", 
+        "total": "1"
+    }, 
+    {
+        "name": "hjemmef\u00f8lelsen", 
+        "total": "1"
+    }, 
+    {
+        "name": "hobby", 
+        "total": "1"
+    }, 
+    {
+        "name": "holde", 
+        "total": "1"
+    }, 
+    {
+        "name": "hus", 
+        "total": "1"
+    }, 
+    {
+        "name": "husker", 
+        "total": "1"
+    }, 
+    {
+        "name": "hver", 
+        "total": "1"
+    }, 
+    {
+        "name": "hverandre", 
+        "total": "1"
+    }, 
+    {
+        "name": "hverdager", 
+        "total": "1"
+    }, 
+    {
+        "name": "hvile", 
+        "total": "1"
+    }, 
+    {
+        "name": "hvordan", 
+        "total": "1"
+    }, 
+    {
+        "name": "hvorfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "hyttaog", 
+        "total": "1"
+    }, 
+    {
+        "name": "hyttebokap\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "hytter", 
+        "total": "1"
+    }, 
+    {
+        "name": "h\u00f8gbr\u00e5th\u00f8gde", 
+        "total": "1"
+    }, 
+    {
+        "name": "h\u00f8rte", 
+        "total": "1"
+    }, 
+    {
+        "name": "h\u00f8sten", 
+        "total": "1"
+    }, 
+    {
+        "name": "h\u00f8ysesongen", 
+        "total": "1"
+    }, 
+    {
+        "name": "igjennom", 
+        "total": "1"
+    }, 
+    {
+        "name": "ikkebli", 
+        "total": "1"
+    }, 
+    {
+        "name": "ikkegrave", 
+        "total": "1"
+    }, 
+    {
+        "name": "ikkehar", 
+        "total": "1"
+    }, 
+    {
+        "name": "ikkeskogen", 
+        "total": "1"
+    }, 
+    {
+        "name": "imot", 
+        "total": "1"
+    }, 
+    {
+        "name": "ingenting", 
+        "total": "1"
+    }, 
+    {
+        "name": "instabilitet", 
+        "total": "1"
+    }, 
+    {
+        "name": "is", 
+        "total": "1"
+    }, 
+    {
+        "name": "iser", 
+        "total": "1"
+    }, 
+    {
+        "name": "jakt", 
+        "total": "1"
+    }, 
+    {
+        "name": "jakthund", 
+        "total": "1"
+    }, 
+    {
+        "name": "jegden", 
+        "total": "1"
+    }, 
+    {
+        "name": "jeger", 
+        "total": "1"
+    }, 
+    {
+        "name": "jegere", 
+        "total": "1"
+    }, 
+    {
+        "name": "jegog", 
+        "total": "1"
+    }, 
+    {
+        "name": "jegsyre", 
+        "total": "1"
+    }, 
+    {
+        "name": "jentene", 
+        "total": "1"
+    }, 
+    {
+        "name": "jobb", 
+        "total": "1"
+    }, 
+    {
+        "name": "jobber", 
+        "total": "1"
+    }, 
+    {
+        "name": "jobbing", 
+        "total": "1"
+    }, 
+    {
+        "name": "jostedalen", 
+        "total": "1"
+    }, 
+    {
+        "name": "jotunheimen", 
+        "total": "1"
+    }, 
+    {
+        "name": "kaffe", 
+        "total": "1"
+    }, 
+    {
+        "name": "kaldt", 
+        "total": "1"
+    }, 
+    {
+        "name": "kanten", 
+        "total": "1"
+    }, 
+    {
+        "name": "karusell", 
+        "total": "1"
+    }, 
+    {
+        "name": "katja", 
+        "total": "1"
+    }, 
+    {
+        "name": "katt", 
+        "total": "1"
+    }, 
+    {
+        "name": "kirken", 
+        "total": "1"
+    }, 
+    {
+        "name": "kjell", 
+        "total": "1"
+    }, 
+    {
+        "name": "kjelleren", 
+        "total": "1"
+    }, 
+    {
+        "name": "kjempebra", 
+        "total": "1"
+    }, 
+    {
+        "name": "kjempeflink", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00e6reste", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00e6restenmin", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00f8le", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00f8lig", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00f8rer", 
+        "total": "1"
+    }, 
+    {
+        "name": "kj\u00f8rte", 
+        "total": "1"
+    }, 
+    {
+        "name": "klut", 
+        "total": "1"
+    }, 
+    {
+        "name": "klyve", 
+        "total": "1"
+    }, 
+    {
+        "name": "klyving", 
+        "total": "1"
+    }, 
+    {
+        "name": "kl\u00f8r", 
+        "total": "1"
+    }, 
+    {
+        "name": "km", 
+        "total": "1"
+    }, 
+    {
+        "name": "kmp\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "kneika", 
+        "total": "1"
+    }, 
+    {
+        "name": "kommeover", 
+        "total": "1"
+    }, 
+    {
+        "name": "konstant", 
+        "total": "1"
+    }, 
+    {
+        "name": "kontorjobb", 
+        "total": "1"
+    }, 
+    {
+        "name": "kontorlandskap", 
+        "total": "1"
+    }, 
+    {
+        "name": "koser", 
+        "total": "1"
+    }, 
+    {
+        "name": "kraner", 
+        "total": "1"
+    }, 
+    {
+        "name": "kunne", 
+        "total": "1"
+    }, 
+    {
+        "name": "kveld", 
+        "total": "1"
+    }, 
+    {
+        "name": "kvist", 
+        "total": "1"
+    }, 
+    {
+        "name": "kyss", 
+        "total": "1"
+    }, 
+    {
+        "name": "labbende", 
+        "total": "1"
+    }, 
+    {
+        "name": "lage", 
+        "total": "1"
+    }, 
+    {
+        "name": "landskap", 
+        "total": "1"
+    }, 
+    {
+        "name": "landskapet", 
+        "total": "1"
+    }, 
+    {
+        "name": "lang", 
+        "total": "1"
+    }, 
+    {
+        "name": "langturenog", 
+        "total": "1"
+    }, 
+    {
+        "name": "legge", 
+        "total": "1"
+    }, 
+    {
+        "name": "leke", 
+        "total": "1"
+    }, 
+    {
+        "name": "leker", 
+        "total": "1"
+    }, 
+    {
+        "name": "lengte", 
+        "total": "1"
+    }, 
+    {
+        "name": "lengteetter", 
+        "total": "1"
+    }, 
+    {
+        "name": "ler", 
+        "total": "1"
+    }, 
+    {
+        "name": "leste", 
+        "total": "1"
+    }, 
+    {
+        "name": "lever", 
+        "total": "1"
+    }, 
+    {
+        "name": "ligge", 
+        "total": "1"
+    }, 
+    {
+        "name": "ligger", 
+        "total": "1"
+    }, 
+    {
+        "name": "liggerfjellkammen", 
+        "total": "1"
+    }, 
+    {
+        "name": "liker", 
+        "total": "1"
+    }, 
+    {
+        "name": "likevel", 
+        "total": "1"
+    }, 
+    {
+        "name": "liksom", 
+        "total": "1"
+    }, 
+    {
+        "name": "likt", 
+        "total": "1"
+    }, 
+    {
+        "name": "lillebrori", 
+        "total": "1"
+    }, 
+    {
+        "name": "listet", 
+        "total": "1"
+    }, 
+    {
+        "name": "lita", 
+        "total": "1"
+    }, 
+    {
+        "name": "lite", 
+        "total": "1"
+    }, 
+    {
+        "name": "litte", 
+        "total": "1"
+    }, 
+    {
+        "name": "lov", 
+        "total": "1"
+    }, 
+    {
+        "name": "lovende", 
+        "total": "1"
+    }, 
+    {
+        "name": "luft", 
+        "total": "1"
+    }, 
+    {
+        "name": "lukter", 
+        "total": "1"
+    }, 
+    {
+        "name": "lyktes", 
+        "total": "1"
+    }, 
+    {
+        "name": "lyst", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00e5ntluktesansen", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00e5st", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00e6rer", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00f8p", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00f8s", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00f8ypene", 
+        "total": "1"
+    }, 
+    {
+        "name": "l\u00f8yper", 
+        "total": "1"
+    }, 
+    {
+        "name": "mai", 
+        "total": "1"
+    }, 
+    {
+        "name": "mandag", 
+        "total": "1"
+    }, 
+    {
+        "name": "manhar", 
+        "total": "1"
+    }, 
+    {
+        "name": "mankommer", 
+        "total": "1"
+    }, 
+    {
+        "name": "marerittet", 
+        "total": "1"
+    }, 
+    {
+        "name": "mars", 
+        "total": "1"
+    }, 
+    {
+        "name": "masse", 
+        "total": "1"
+    }, 
+    {
+        "name": "mat", 
+        "total": "1"
+    }, 
+    {
+        "name": "md", 
+        "total": "1"
+    }, 
+    {
+        "name": "medet", 
+        "total": "1"
+    }, 
+    {
+        "name": "mellom", 
+        "total": "1"
+    }, 
+    {
+        "name": "menogs\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "mens", 
+        "total": "1"
+    }, 
+    {
+        "name": "mensvenja", 
+        "total": "1"
+    }, 
+    {
+        "name": "merker", 
+        "total": "1"
+    }, 
+    {
+        "name": "merket", 
+        "total": "1"
+    }, 
+    {
+        "name": "middag", 
+        "total": "1"
+    }, 
+    {
+        "name": "midti", 
+        "total": "1"
+    }, 
+    {
+        "name": "minus", 
+        "total": "1"
+    }, 
+    {
+        "name": "mistanke", 
+        "total": "1"
+    }, 
+    {
+        "name": "mistet", 
+        "total": "1"
+    }, 
+    {
+        "name": "morgen", 
+        "total": "1"
+    }, 
+    {
+        "name": "morsomt", 
+        "total": "1"
+    }, 
+    {
+        "name": "myeav", 
+        "total": "1"
+    }, 
+    {
+        "name": "mykt", 
+        "total": "1"
+    }, 
+    {
+        "name": "m\u00e5l", 
+        "total": "1"
+    }, 
+    {
+        "name": "m\u00e5nen", 
+        "total": "1"
+    }, 
+    {
+        "name": "m\u00e5regne", 
+        "total": "1"
+    }, 
+    {
+        "name": "m\u00f8rkt", 
+        "total": "1"
+    }, 
+    {
+        "name": "natt", 
+        "total": "1"
+    }, 
+    {
+        "name": "natur", 
+        "total": "1"
+    }, 
+    {
+        "name": "nedi", 
+        "total": "1"
+    }, 
+    {
+        "name": "nedturene", 
+        "total": "1"
+    }, 
+    {
+        "name": "nemlig", 
+        "total": "1"
+    }, 
+    {
+        "name": "noktil", 
+        "total": "1"
+    }, 
+    {
+        "name": "nydelig\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "nye", 
+        "total": "1"
+    }, 
+    {
+        "name": "nyt", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00e5er", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00e5rman", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00e6r", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00e6romr\u00e5detsom", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00f8dbu", 
+        "total": "1"
+    }, 
+    {
+        "name": "n\u00f8kkel", 
+        "total": "1"
+    }, 
+    {
+        "name": "ogkjell", 
+        "total": "1"
+    }, 
+    {
+        "name": "ogs\u00e5kanskje", 
+        "total": "1"
+    }, 
+    {
+        "name": "onkel", 
+        "total": "1"
+    }, 
+    {
+        "name": "oppdagelsesferd", 
+        "total": "1"
+    }, 
+    {
+        "name": "opplevelse", 
+        "total": "1"
+    }, 
+    {
+        "name": "oppog", 
+        "total": "1"
+    }, 
+    {
+        "name": "oppst\u00e5r", 
+        "total": "1"
+    }, 
+    {
+        "name": "oransje", 
+        "total": "1"
+    }, 
+    {
+        "name": "overalt", 
+        "total": "1"
+    }, 
+    {
+        "name": "overflod", 
+        "total": "1"
+    }, 
+    {
+        "name": "overheat", 
+        "total": "1"
+    }, 
+    {
+        "name": "overlever", 
+        "total": "1"
+    }, 
+    {
+        "name": "overraskelser", 
+        "total": "1"
+    }, 
+    {
+        "name": "overtaket", 
+        "total": "1"
+    }, 
+    {
+        "name": "parkerer", 
+        "total": "1"
+    }, 
+    {
+        "name": "parkert", 
+        "total": "1"
+    }, 
+    {
+        "name": "passerp\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "patent", 
+        "total": "1"
+    }, 
+    {
+        "name": "personalet", 
+        "total": "1"
+    }, 
+    {
+        "name": "plagsomt", 
+        "total": "1"
+    }, 
+    {
+        "name": "plukke", 
+        "total": "1"
+    }, 
+    {
+        "name": "plunder", 
+        "total": "1"
+    }, 
+    {
+        "name": "popul\u00e6re", 
+        "total": "1"
+    }, 
+    {
+        "name": "presse", 
+        "total": "1"
+    }, 
+    {
+        "name": "pris", 
+        "total": "1"
+    }, 
+    {
+        "name": "privaten", 
+        "total": "1"
+    }, 
+    {
+        "name": "problem", 
+        "total": "1"
+    }, 
+    {
+        "name": "problemer", 
+        "total": "1"
+    }, 
+    {
+        "name": "pusekatten", 
+        "total": "1"
+    }, 
+    {
+        "name": "p\u00e5'n", 
+        "total": "1"
+    }, 
+    {
+        "name": "p\u00e5ryper", 
+        "total": "1"
+    }, 
+    {
+        "name": "p\u00e5seg", 
+        "total": "1"
+    }, 
+    {
+        "name": "regel", 
+        "total": "1"
+    }, 
+    {
+        "name": "regnemed", 
+        "total": "1"
+    }, 
+    {
+        "name": "reingjeting", 
+        "total": "1"
+    }, 
+    {
+        "name": "reingjetingen", 
+        "total": "1"
+    }, 
+    {
+        "name": "rene", 
+        "total": "1"
+    }, 
+    {
+        "name": "rev", 
+        "total": "1"
+    }, 
+    {
+        "name": "rikelig", 
+        "total": "1"
+    }, 
+    {
+        "name": "ro", 
+        "total": "1"
+    }, 
+    {
+        "name": "romjula", 
+        "total": "1"
+    }, 
+    {
+        "name": "rop", 
+        "total": "1"
+    }, 
+    {
+        "name": "rubben", 
+        "total": "1"
+    }, 
+    {
+        "name": "rypa", 
+        "total": "1"
+    }, 
+    {
+        "name": "rypespor", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00e5teluft", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00e5tten", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00f8dlue", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00f8dnisse", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00f8dt", 
+        "total": "1"
+    }, 
+    {
+        "name": "r\u00f8rene", 
+        "total": "1"
+    }, 
+    {
+        "name": "samarbeidsvillig", 
+        "total": "1"
+    }, 
+    {
+        "name": "sammenheng", 
+        "total": "1"
+    }, 
+    {
+        "name": "samvittighet", 
+        "total": "1"
+    }, 
+    {
+        "name": "sannheten", 
+        "total": "1"
+    }, 
+    {
+        "name": "sant", 
+        "total": "1"
+    }, 
+    {
+        "name": "sedisse", 
+        "total": "1"
+    }, 
+    {
+        "name": "seghva", 
+        "total": "1"
+    }, 
+    {
+        "name": "segsn\u00f8dekte", 
+        "total": "1"
+    }, 
+    {
+        "name": "sekken", 
+        "total": "1"
+    }, 
+    {
+        "name": "selvbetjentehyttene", 
+        "total": "1"
+    }, 
+    {
+        "name": "senere", 
+        "total": "1"
+    }, 
+    {
+        "name": "september", 
+        "total": "1"
+    }, 
+    {
+        "name": "sesong", 
+        "total": "1"
+    }, 
+    {
+        "name": "sett", 
+        "total": "1"
+    }, 
+    {
+        "name": "side", 
+        "total": "1"
+    }, 
+    {
+        "name": "sikkert", 
+        "total": "1"
+    }, 
+    {
+        "name": "sikt", 
+        "total": "1"
+    }, 
+    {
+        "name": "siktog", 
+        "total": "1"
+    }, 
+    {
+        "name": "sin", 
+        "total": "1"
+    }, 
+    {
+        "name": "sine", 
+        "total": "1"
+    }, 
+    {
+        "name": "siste", 
+        "total": "1"
+    }, 
+    {
+        "name": "sitt", 
+        "total": "1"
+    }, 
+    {
+        "name": "sitter", 
+        "total": "1"
+    }, 
+    {
+        "name": "sjekk", 
+        "total": "1"
+    }, 
+    {
+        "name": "sjekkeom", 
+        "total": "1"
+    }, 
+    {
+        "name": "skiene", 
+        "total": "1"
+    }, 
+    {
+        "name": "skikj\u00f8ringen", 
+        "total": "1"
+    }, 
+    {
+        "name": "skikkelig", 
+        "total": "1"
+    }, 
+    {
+        "name": "skimter", 
+        "total": "1"
+    }, 
+    {
+        "name": "skjerdingane", 
+        "total": "1"
+    }, 
+    {
+        "name": "skogskole", 
+        "total": "1"
+    }, 
+    {
+        "name": "skred", 
+        "total": "1"
+    }, 
+    {
+        "name": "skredfarlig", 
+        "total": "1"
+    }, 
+    {
+        "name": "skredkurs", 
+        "total": "1"
+    }, 
+    {
+        "name": "skremmer", 
+        "total": "1"
+    }, 
+    {
+        "name": "skrevet", 
+        "total": "1"
+    }, 
+    {
+        "name": "skuterenog", 
+        "total": "1"
+    }, 
+    {
+        "name": "slikder", 
+        "total": "1"
+    }, 
+    {
+        "name": "slike", 
+        "total": "1"
+    }, 
+    {
+        "name": "sliten", 
+        "total": "1"
+    }, 
+    {
+        "name": "slutt", 
+        "total": "1"
+    }, 
+    {
+        "name": "slutten", 
+        "total": "1"
+    }, 
+    {
+        "name": "sluttet", 
+        "total": "1"
+    }, 
+    {
+        "name": "smalt", 
+        "total": "1"
+    }, 
+    {
+        "name": "snakker", 
+        "total": "1"
+    }, 
+    {
+        "name": "snart", 
+        "total": "1"
+    }, 
+    {
+        "name": "snu", 
+        "total": "1"
+    }, 
+    {
+        "name": "sn\u00f8dd", 
+        "total": "1"
+    }, 
+    {
+        "name": "sn\u00f8dekket", 
+        "total": "1"
+    }, 
+    {
+        "name": "sn\u00f8f\u00f8ykog", 
+        "total": "1"
+    }, 
+    {
+        "name": "sn\u00f8skuter", 
+        "total": "1"
+    }, 
+    {
+        "name": "sola", 
+        "total": "1"
+    }, 
+    {
+        "name": "somer", 
+        "total": "1"
+    }, 
+    {
+        "name": "somkanskje", 
+        "total": "1"
+    }, 
+    {
+        "name": "sommersesongenn\u00e5r", 
+        "total": "1"
+    }, 
+    {
+        "name": "somom", 
+        "total": "1"
+    }, 
+    {
+        "name": "sove", 
+        "total": "1"
+    }, 
+    {
+        "name": "spennep\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "spesielt", 
+        "total": "1"
+    }, 
+    {
+        "name": "spise", 
+        "total": "1"
+    }, 
+    {
+        "name": "spredt", 
+        "total": "1"
+    }, 
+    {
+        "name": "sprengt", 
+        "total": "1"
+    }, 
+    {
+        "name": "sp\u00f8ke", 
+        "total": "1"
+    }, 
+    {
+        "name": "sp\u00f8r", 
+        "total": "1"
+    }, 
+    {
+        "name": "sp\u00f8rre", 
+        "total": "1"
+    }, 
+    {
+        "name": "stabilitet", 
+        "total": "1"
+    }, 
+    {
+        "name": "stakkar", 
+        "total": "1"
+    }, 
+    {
+        "name": "starte", 
+        "total": "1"
+    }, 
+    {
+        "name": "sted", 
+        "total": "1"
+    }, 
+    {
+        "name": "stede", 
+        "total": "1"
+    }, 
+    {
+        "name": "stegjern", 
+        "total": "1"
+    }, 
+    {
+        "name": "stengekran", 
+        "total": "1"
+    }, 
+    {
+        "name": "stengekranenp\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "stilnetetter", 
+        "total": "1"
+    }, 
+    {
+        "name": "sto", 
+        "total": "1"
+    }, 
+    {
+        "name": "store", 
+        "total": "1"
+    }, 
+    {
+        "name": "storegut", 
+        "total": "1"
+    }, 
+    {
+        "name": "stund", 
+        "total": "1"
+    }, 
+    {
+        "name": "st\u00f8rstfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "supert", 
+        "total": "1"
+    }, 
+    {
+        "name": "svarer", 
+        "total": "1"
+    }, 
+    {
+        "name": "svingeri", 
+        "total": "1"
+    }, 
+    {
+        "name": "sv\u00e6rt", 
+        "total": "1"
+    }, 
+    {
+        "name": "syns", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00e5ofte", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00e5pass", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00e6rlig", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00e6rlig\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00f8ndag", 
+        "total": "1"
+    }, 
+    {
+        "name": "s\u00f8rget", 
+        "total": "1"
+    }, 
+    {
+        "name": "taket", 
+        "total": "1"
+    }, 
+    {
+        "name": "takk", 
+        "total": "1"
+    }, 
+    {
+        "name": "te", 
+        "total": "1"
+    }, 
+    {
+        "name": "telt", 
+        "total": "1"
+    }, 
+    {
+        "name": "teltturen", 
+        "total": "1"
+    }, 
+    {
+        "name": "tenker", 
+        "total": "1"
+    }, 
+    {
+        "name": "terrenget", 
+        "total": "1"
+    }, 
+    {
+        "name": "tiden", 
+        "total": "1"
+    }, 
+    {
+        "name": "tilbake", 
+        "total": "1"
+    }, 
+    {
+        "name": "tildragelserfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "tilkvelden", 
+        "total": "1"
+    }, 
+    {
+        "name": "tilleirplassen", 
+        "total": "1"
+    }, 
+    {
+        "name": "tilog", 
+        "total": "1"
+    }, 
+    {
+        "name": "time", 
+        "total": "1"
+    }, 
+    {
+        "name": "timer", 
+        "total": "1"
+    }, 
+    {
+        "name": "ting", 
+        "total": "1"
+    }, 
+    {
+        "name": "tirsdag", 
+        "total": "1"
+    }, 
+    {
+        "name": "tok", 
+        "total": "1"
+    }, 
+    {
+        "name": "topp", 
+        "total": "1"
+    }, 
+    {
+        "name": "topps", 
+        "total": "1"
+    }, 
+    {
+        "name": "toskete", 
+        "total": "1"
+    }, 
+    {
+        "name": "tre", 
+        "total": "1"
+    }, 
+    {
+        "name": "treffe", 
+        "total": "1"
+    }, 
+    {
+        "name": "trenger", 
+        "total": "1"
+    }, 
+    {
+        "name": "trivelig", 
+        "total": "1"
+    }, 
+    {
+        "name": "trordet", 
+        "total": "1"
+    }, 
+    {
+        "name": "trorikke", 
+        "total": "1"
+    }, 
+    {
+        "name": "trykket", 
+        "total": "1"
+    }, 
+    {
+        "name": "tr\u00e6rne", 
+        "total": "1"
+    }, 
+    {
+        "name": "turene", 
+        "total": "1"
+    }, 
+    {
+        "name": "turister", 
+        "total": "1"
+    }, 
+    {
+        "name": "turl\u00f8yper", 
+        "total": "1"
+    }, 
+    {
+        "name": "tusen", 
+        "total": "1"
+    }, 
+    {
+        "name": "typisk", 
+        "total": "1"
+    }, 
+    {
+        "name": "tyri", 
+        "total": "1"
+    }, 
+    {
+        "name": "t\u00e5ler", 
+        "total": "1"
+    }, 
+    {
+        "name": "t\u00f8rk", 
+        "total": "1"
+    }, 
+    {
+        "name": "uke", 
+        "total": "1"
+    }, 
+    {
+        "name": "ull", 
+        "total": "1"
+    }, 
+    {
+        "name": "umulig", 
+        "total": "1"
+    }, 
+    {
+        "name": "under", 
+        "total": "1"
+    }, 
+    {
+        "name": "underhammeren", 
+        "total": "1"
+    }, 
+    {
+        "name": "underskrive", 
+        "total": "1"
+    }, 
+    {
+        "name": "un\u00f8dig", 
+        "total": "1"
+    }, 
+    {
+        "name": "utdannet", 
+        "total": "1"
+    }, 
+    {
+        "name": "utenfor", 
+        "total": "1"
+    }, 
+    {
+        "name": "utfordring", 
+        "total": "1"
+    }, 
+    {
+        "name": "utl\u00f8p", 
+        "total": "1"
+    }, 
+    {
+        "name": "utl\u00f8pet", 
+        "total": "1"
+    }, 
+    {
+        "name": "utrolig", 
+        "total": "1"
+    }, 
+    {
+        "name": "vakkert", 
+        "total": "1"
+    }, 
+    {
+        "name": "valg", 
+        "total": "1"
+    }, 
+    {
+        "name": "vanlige", 
+        "total": "1"
+    }, 
+    {
+        "name": "vanligvis", 
+        "total": "1"
+    }, 
+    {
+        "name": "vare", 
+        "total": "1"
+    }, 
+    {
+        "name": "varer", 
+        "total": "1"
+    }, 
+    {
+        "name": "varme", 
+        "total": "1"
+    }, 
+    {
+        "name": "varmtvannsberederen", 
+        "total": "1"
+    }, 
+    {
+        "name": "var\u00e5", 
+        "total": "1"
+    }, 
+    {
+        "name": "venner", 
+        "total": "1"
+    }, 
+    {
+        "name": "venstre", 
+        "total": "1"
+    }, 
+    {
+        "name": "vente", 
+        "total": "1"
+    }, 
+    {
+        "name": "verdens", 
+        "total": "1"
+    }, 
+    {
+        "name": "verste", 
+        "total": "1"
+    }, 
+    {
+        "name": "vertinna", 
+        "total": "1"
+    }, 
+    {
+        "name": "vertinnen", 
+        "total": "1"
+    }, 
+    {
+        "name": "vet", 
+        "total": "1"
+    }, 
+    {
+        "name": "vidder", 
+        "total": "1"
+    }, 
+    {
+        "name": "vidt", 
+        "total": "1"
+    }, 
+    {
+        "name": "viflyttet", 
+        "total": "1"
+    }, 
+    {
+        "name": "vikom", 
+        "total": "1"
+    }, 
+    {
+        "name": "viktig", 
+        "total": "1"
+    }, 
+    {
+        "name": "ville", 
+        "total": "1"
+    }, 
+    {
+        "name": "vinterfjellet", 
+        "total": "1"
+    }, 
+    {
+        "name": "vinterstid", 
+        "total": "1"
+    }, 
+    {
+        "name": "vinterstormen", 
+        "total": "1"
+    }, 
+    {
+        "name": "virker", 
+        "total": "1"
+    }, 
+    {
+        "name": "visste", 
+        "total": "1"
+    }, 
+    {
+        "name": "vite", 
+        "total": "1"
+    }, 
+    {
+        "name": "vits", 
+        "total": "1"
+    }, 
+    {
+        "name": "vivesle", 
+        "total": "1"
+    }, 
+    {
+        "name": "voksne", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e5ger", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e5ren", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e5rskisesongen", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e6ret", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e6retil", 
+        "total": "1"
+    }, 
+    {
+        "name": "v\u00e6rtutrolig", 
+        "total": "1"
+    }, 
+    {
+        "name": "wow", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00d8lnes", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00d8sterdalen", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00e5rmed", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00f8ks", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00f8st", 
+        "total": "1"
+    }, 
+    {
+        "name": "\u00f8yeblikket", 
+        "total": "1"
+    }
+]
