@@ -1,4 +1,6 @@
 <?php
+$type = "fjellfolk.1.4";
+
 $dom = new DOMDocument();
 $dom->load("./fjellfolk.1.4.xml");
 
@@ -61,7 +63,8 @@ $items = array();
 foreach($words as $word) {
 	$items[] = array(
 		"id" => uniqid("", true),
-		"word_s" => $word
+		"word_s" => $word,
+		"type_s" => $type,
 	);
 }
 file_put_contents("./words.json", json_encode($items));
